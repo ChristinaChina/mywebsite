@@ -9,17 +9,19 @@ I am interested in cultural studies, particularly in the interplay between techn
 
 ## Personal Information
 ### Educational Background
-M.A. Journalism and Communication/
+M.A. Journalism and Communication\
 Shenzhen University, China
-B.A. in Journalism (Radio and Television studies)/
+
+B.A. in Journalism (Radio and Television studies)\
 Jiangxi Normal University, China
-Visiting student in Cultural and Social Anthropology/
+
+Visiting student in Cultural and Social Anthropology\
 Philipps University of Marburg, Germany
 ### Contact Details
-Website: zhentinghe.com
-Emails: heyzhenting@gmail.com；zhentinghe@proton.me
-Phone/WhatsApp: 49-015231658290
-Mobile: 86-15920892958
+Website: zhentinghe.com\
+Emails: heyzhenting@gmail.com；zhentinghe@proton.me\
+Phone/WhatsApp: 49-015231658290\
+Mobile: 86-15920892958\
 
 ## PUBLICATION and PEER-REVIEWED CONFERENCE PRESENTATIONS
 1. Huang, W., He, Z., Zhao, Q., & Chang, J., Public Trust and Community Develpment: A Review of Communication Research in 2023, Press, 2024, (01), 32-48. 【Chinese Social Sciences Citation Index】 
@@ -47,21 +49,22 @@ academic taste for the research directions of digital media culture and digital 
 2. Conducted result analyses on various project questionnaires, by utilizing STATA and SPSS data analysis software, significantly enhancing my statistical knowledge and data analysis skills. This experience has empowered me to read academic articles related to these methods with greater ease and comprehension.
 
 ## Awards and Fellowships
-2023-2024 National Scholarship (Top 0.2% ), Ministry of Education of the People’ s Republic of China Beijing, China 
-2022-2023 Top-level Academic Scholarship , Shenzhen University Shenzhen, China 
-2018-2022 Outstanding Students Scholarship (Top 1%, fourth) , Jiangxi Normal University Nanchang, China 
-2022 Honours Degree & Outstanding Graduates, Jiangxi Normal University Nanchang, China 
-2021 Honorable Mention of Art Design, Ministry of Industry and Information Technology of China Beijing, China 
-2021 Outstanding Volunteer(Top 0.7%), Jiangxi Normal University Nanchang, China 
-2021 National Second Prize for Videography, Academy Award of Advertising Arts Festival Beijing, China 
-2021 National Second Prize for Visualization Design, Chinese Collegiate Computing Competition Xiamen, China 
-2020 Best in Arts and Culture News Reporting, Campus Newspaper Award, China Daily Asia Hongkong, China 
-2019 National Second Prize, National English Competition for College Students Nanchang, China
+1. 2023-2024 National Scholarship (Top 0.2% ), Ministry of Education of the People’ s Republic of China Beijing, China 
+2. 2022-2023 Top-level Academic Scholarship , Shenzhen University Shenzhen, China 
+3. 2018-2022 Outstanding Students Scholarship (Top 1%, fourth) , Jiangxi Normal University Nanchang, China 
+4. 2022 Honours Degree & Outstanding Graduates, Jiangxi Normal University Nanchang, China 
+5. 2021 Honorable Mention of Art Design, Ministry of Industry and Information Technology of China Beijing, China 
+6. 2021 Outstanding Volunteer(Top 0.7%), Jiangxi Normal University Nanchang, China 
+7. 2021 National Second Prize for Videography, Academy Award of Advertising Arts Festival Beijing, China 
+8. 2021 National Second Prize for Visualization Design, Chinese Collegiate Computing Competition Xiamen, China 
+9. 2020 Best in Arts and Culture News Reporting, Campus Newspaper Award, China Daily Asia Hongkong, China 
+10. 2019 National Second Prize, National English Competition for College Students Nanchang, China
 
 ## Skills
 ### Professional Skills
-Data analysis NVIVO (Proficient), MAXQDA (Proficient), SPSS (Intermediate), STATA (Intermediate)
+Data analysis NVIVO (Proficient), MAXQDA (Proficient), SPSS (Intermediate), STATA (Intermediate)\
 Languages Hakka (Native), English (Proficient), Korean (Intermediate), German (Elementary)
 
 ### Additional skills & interests
-Applications Adobe Photoshop, Adobe Premiere, Final Cut Pro, Davinci Resolve Specialties & hobbies Guzheng (Level 8 Certificate), Trap, Swimming, Detective (thriller-mystery) movies
+Applications Adobe Photoshop, Adobe Premiere, Final Cut Pro, Davinci Resolve \
+Specialties & hobbies Guzheng (Level 8 Certificate), Trap, Swimming, Detective (thriller-mystery) movies
