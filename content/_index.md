@@ -4,9 +4,8 @@ title: Home
 
 {{<figure src="/images/self.jpg" title="This is Zhenting, which is me (我就是我，不一样的烟火)" width="450">}}
 
-I was born on Mars in 2011. Four days after my birth, I moved to the Earth with my family. There, what I saw shocked me greatly. 
+I am a third-year master's student at Shenzhen University's School of Media and Communication, on track to complete my degree by summer 2025. From October 2024 to March 2025, I am also a visiting student in the Department of Social Sciences and Philosophy at Philipps University of Marburg, Germany, where I am furthering my research and studies.
 
-这是我 2011 年在火星出生后第三天的照片。第四天，我被运往地球，在那里看到的东西把我吓傻了。
 
 <a href='https://szu.academia.edu/JiangCHANG/CurriculumVitae' target="_blank"> my supervisor</a >
 
