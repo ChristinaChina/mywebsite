@@ -1,6 +1,6 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
-title = "Hugo-HT"
+title = "Zhenting HE"
 theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
