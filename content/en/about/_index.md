@@ -9,24 +9,25 @@ I am interested in cultural studies, particularly in the interplay between techn
 
 ## Personal Information
 ### Educational Background
-M.A. Journalism and Communication\
-Shenzhen University, China
+   M.A. in Journalism and Communication\
+   Shenzhen University, China, 2022-2025
 
-B.A. in Journalism (Radio and Television studies)\
-Jiangxi Normal University, China
+   Visiting student in Cultural and Social Anthropology\
+   Philipps University of Marburg, Germany,2024-2025
 
-Visiting student in Cultural and Social Anthropology\
-Philipps University of Marburg, Germany
+   B.A. in Journalism (Radio and Television studies)\
+   Jiangxi Normal University, China, 2018-2022
+
 ### Contact Details
-Website: zhentinghe.com\
-Emails: heyzhenting@gmail.com；zhentinghe@proton.me\
-Phone/WhatsApp: 49-015231658290\
-Mobile: 86-15920892958\
+   Website: zhentinghe.com\
+   Emails: heyzhenting@gmail.com; zhentinghe@proton.me\
+   Phone/WhatsApp: 49-015231658290\
+   Mobile: 86-15920892958
 
-## PUBLICATION and PEER-REVIEWED CONFERENCE PRESENTATIONS
+## Publication and peer-reviewed conference presentations
 1. Huang, W., He, Z., Zhao, Q., & Chang, J., Public Trust and Community Develpment: A Review of Communication Research in 2023, Press, 2024, (01), 32-48. 【Chinese Social Sciences Citation Index】 
-2. He, Z. 2024. Aesthetics as an Invisible Power: A Chronological Examination Based on Youth’ s Cultural Consumption of Celebrities. Paper Presented at the 107th Association for Education in Journalism and Mass Communication(AEJMC), Philadelphia, America. He, Z. 2024. 
-3. Relational Practices of Digital Mourning Through the Lens of Continuing Bonds. Paper Presented at the 107th Association for Education in Journalism and Mass Communication(AEJMC), Philadelphia, America. He, Z. 2024. 
+2. He, Z. 2024. Aesthetics as an Invisible Power: A Chronological Examination Based on Youth’ s Cultural Consumption of Celebrities. Paper Presented at the 107th Association for Education in Journalism and Mass Communication(AEJMC), Philadelphia, America. 
+3. He, Z. 2024. Relational Practices of Digital Mourning Through the Lens of Continuing Bonds. Paper Presented at the 107th Association for Education in Journalism and Mass Communication(AEJMC), Philadelphia, America. He, Z. 2024. 
 4. Research on the Female Images in Hou Hsiao-hsien’ s Films. Paper Presented at the 2024 International Association for Media and Communication Research(IAMCR), Christchurch, New Zealand.
 
 ## Academic Serivice
@@ -62,9 +63,9 @@ academic taste for the research directions of digital media culture and digital 
 
 ## Skills
 ### Professional Skills
-Data analysis NVIVO (Proficient), MAXQDA (Proficient), SPSS (Intermediate), STATA (Intermediate)\
-Languages Hakka (Native), English (Proficient), Korean (Intermediate), German (Elementary)
+1. Data analysis: NVIVO (Proficient), MAXQDA (Proficient), SPSS (Intermediate), STATA (Intermediate)\
+2. Languages: Hakka (Native), English (Proficient), Korean (Intermediate), German (Elementary)
 
 ### Additional skills & interests
-Applications Adobe Photoshop, Adobe Premiere, Final Cut Pro, Davinci Resolve \
-Specialties & hobbies Guzheng (Level 8 Certificate), Trap, Swimming, Detective (thriller-mystery) movies
+1. Applications: Adobe Photoshop, Adobe Premiere, Final Cut Pro, Davinci Resolve \
+2. Specialties & hobbies: Guzheng (Level 8 Certificate), Trap, Swimming, Detective (thriller-mystery) movies
