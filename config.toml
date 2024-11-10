@@ -49,11 +49,11 @@ posts = "/posts/:year/:month/:day/:slug/"
     defaultLang = "en"
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs" 
     MathJaxVersion = "2.7.5"
-    favicon = "media/hugo-logo.png"
+    # favicon = "media/hugo-logo.png"
     # Edit by yourself:
     GithubEdit = "https://github.com/USERNAME/REPONAME/edit/main/content/"
     copyright = "&copy;"
-    copyrightYear = "2020-2021"
+    copyrightYear = "2022-present"
     # Edit by yourself:
     # GithubRepo = "https://github.com/USERNAME/REPONAME"
     # Edit by yourself:
@@ -69,12 +69,12 @@ posts = "/posts/:year/:month/:day/:slug/"
 [params.lang]
 
     [params.lang.author]
-      en = "Your Name"
-      cn = "你的名字"
+      en = "Zhenting HE"
+      cn = "Zhenting HE"
 
     [params.lang.madeWith]
-      en = "Made with"
-      cn = "本站驱动"
+      en = ""
+      cn = ""
 
     [params.lang.edit]
       en = "Suggest an edit of this page"
