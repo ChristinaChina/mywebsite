@@ -55,7 +55,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     copyright = "&copy;"
     copyrightYear = "2020-2021"
     # Edit by yourself:
-    GithubRepo = "https://github.com/USERNAME/REPONAME"
+    # GithubRepo = "https://github.com/USERNAME/REPONAME"
     # Edit by yourself:
     ContentSource = "https://raw.githubusercontent.com/USERNAME/REPONAME/main/content/" 
 
