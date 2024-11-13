@@ -1,7 +1,7 @@
 ---
 title: "First participation in academic conference"
 date: 2024-07-02
-author: Robert Frost
+author: Zhenting HE
 slug: road-not-taken
 draft: false
 toc: false

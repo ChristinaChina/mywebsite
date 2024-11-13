@@ -15,7 +15,7 @@ I am interested in cultural studies, particularly in the interplay between techn
    Visiting student in Cultural and Social Anthropology\
    Philipps University of Marburg, Germany, 2024-2025
 
-   B.A. in Journalism (Radio and Television studies)\
+   B.A. in Journalism (Radio and Television Studies)\
    Jiangxi Normal University, China, 2018-2022
 
 ### Contact Details
@@ -25,7 +25,7 @@ I am interested in cultural studies, particularly in the interplay between techn
    Mobile: 86-15920892958
 
 ## Publication 
-Huang, W., He, Z., Zhao, Q., & Chang, J., Public Trust and Community Develpment: A Review of Communication Research in 2023, Press, 2024, (01), 32-48. 【Chinese Social Sciences Citation Index】 
+Huang, W., He, Z., Zhao, Q., & Chang, J., Public Trust and Community Develpment: A Review of Communication Research in 2023, Press, 2024, (01), 32-48. 【Chinese Social Sciences Citation Index】\
 This article uses the LDA topic model to conduct a comprehensive and detailed review of global communication research in 2023 and summarizes the core issues and evolving patterns of the current theoretical development of communication studies. Through topic clustering and text mining of 2210 academic papers, this article distills six major sections and 19 themes of journalism research this year and analyzes representative literature under different themes. This article finds three core characteristics of global communication research in 2023: exploring how public trust is reaffirmed and reconstructed in the digital media ecosystem; interpreting the close relationship between digital media technology and the development of different types of communities; concerning people's physical and mental health and spiritual well-being in the digital information environment. This article believes that in an era of highly integrated concepts and experiences, overly refined typological systems and sectoral consciousness have become obstacles to theoretical growth. Communication academia must make changes to the sociology-political science binary that dominates its development to realize real growth.
 
 ## peer-reviewed conference presentations
@@ -52,9 +52,9 @@ This paper examines the characteristics of different disciplines to review the l
 The empathy machine under the perspective of platform capitalism: based on a study of disadvantaged groups with disabilities in Douyin
 
 ## Academic Serivice
-1. Manuscript Reviewer, Association for Education in Journalism and Mass Communication (AEJMC), April - May, 2024
-2. Student Assistant to the Organiser, Annual Conference on Digital Journalism in China, May, 2024
-3. Assistant to the Organiser, Tencent Global Digital Ecosystem Summit, September, 2024
+1. Manuscript Reviewer, <a href='https://www.aejmc.org' target="_blank"> Association for Education in Journalism and Mass Communication (AEJMC)</a >, April - May, 2024
+2. Student Assistant to the Organiser, <a href='http://www.ccgc-szu.com/h-nd-86.html' target="_blank">Annual Conference on Digital Journalism in China</a >, May, 2024
+3. Assistant to the Organiser, <a href='https://www.tencentcloud.com/act/pro/2024gdes' target="_blank">Tencent Global Digital Ecosystem Summit</a >, September, 2024
 
 ## Research Experience
 ### Digital Media Culture Lab, Shenzhen University 
