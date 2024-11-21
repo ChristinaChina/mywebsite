@@ -17,7 +17,7 @@ I was so excited to attend the conference that I booked a flight on June 29th! I
 
 Amidst the absolutely gorgeous scenery, I felt completely at ease. On the day of my presentation, I was brimming with excitement as I stood on the escalator heading to the presentation floor. I checked the group's schedule and was thrilled to see that two members of the review panel held the title of "Professor," while another participant came from a globally renowned university. This impressive lineup made me feel excited—not because I feared authority itself—but because I was eager to show these experienced researchers that I was ready to contribute to the discussion. I was excited to share my analysis, confident that my methods were appropriate, and eager to deliver my findings in an effective way. 
 
-{{<figure src="/images/First academic presentation.jpg" title="My snapshot from the IAMCR 2024" width="3600">}}
+{{<figure src="/images/First academic presentation.jpg" title="My snapshot from the IAMCR 2024" width="360">}}
 
 Sensing my unease, a doctoral student from Beijing University traveling with me gave me a gentle pat on the shoulder and offered encouragement. "It's okay! Think about it—those panelists already have high external recognition, but the fact that you, at such a young age, can stand on the same stage as them also proves your capability! "Since the reviewers accepted your paper, you should confidently present your work." Her words were a revelation, offering me immense comfort. She was absolutely right! If I lacked confidence in myself, how could I possibly expect others to take an interest in my research?  
 
