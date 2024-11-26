@@ -8,7 +8,7 @@ toc: true
 categories:
   - test
 tags:
-  - may daily life
+  - my daily life
 ---
 {{<figure src="/videos/2024 first snow video.mp4" title="The First Snow Moment of the year!" width="720">}}
 
