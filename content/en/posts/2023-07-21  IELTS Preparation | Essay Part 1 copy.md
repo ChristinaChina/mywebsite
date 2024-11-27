@@ -11,6 +11,61 @@ tags:
   - Information Sharing
 ---
 
+
+【Framework】--Diff & Comm；in Quantities；Within & Between data groups
+Summary：
+what’s the framework?
+Group 1:
+why grouping (commonality)?
+comparison and key features?
+Group 2:
+why grouping (commonality)?
+comparison and key features?
+Conclusion (bonus):
+additional information or reasonable interpretation 
+
+What’s the framework?
+The bar chart demonstrates the coffee-and-tea buying and drinking preferences of residents in five Australian cities. It shows the proportion of residents who bought fresh or instant coffee, and those that went to a cafe or tea in the last four weeks.
+-tense
+-paraphrasing
+-framework: two axes & data groups
+
+Group1:（外部差异）
+-why grouping (commonality)?
+-comparison and key features?
+According to the chart, most residents in the cities went out for coffee or tea- over 60% in Sydney, Melbourne, and Hobart, and around 55% in Brisbane; these numbers are generally much higher than those of buying fresh or instant coffee. Adelaide is an exception with slightly less than half of its people going out, also one or two percent lower than buying instant coffee.
+
+-tense
+-why grouping?
+-internal comm & diff
+-external comm & diff
+
+Group2:（内部差异）
+ -why grouping (commonality)?
+- comparison and key features?
+Among those who bought coffee, around half (45-55%) of the people in the cities bought instant coffee; on the other hand, fewer people bought fresh coffee though the difference varied: from a few percent in Sydney and Melbourne to about half the number of those who bought instant coffee in Brisbane, Adelaide, and Hobart. 
+
+-tense
+-why grouping?
+-internal comm & diff
+
+Conclusion (bonus)
+-additional information or reasonable interpretation
+
+In conclusion, most residents in the five Australian cities drink coffee or tea, and they seem to prefer convenient ways of drinking (coffee or tea from a shop or instant coffee) to making their own drink (fresh).
+
+【writing sample】
+{{<figure src="/images/Example 1 Bar graphs.png" title="Example 1-Bar graphs" width="360">}}
+The bar chart illustrates the coffee and tea purchasing and drinking habits of residents in five Australian cities. Specifically, it compares the proportions of people who went to a café for coffee or tea and those who bought fresh or instant coffee in the past four weeks.
+Overall, visiting a café was the most popular activity in Sydney, Melbourne, and Hobart, where over 60% of residents engaged in this habit. Similarly, approximately 55% of Brisbane’s population visited cafés, whereas in Adelaide, this figure fell slightly below 50%, making it the only city where café visits were less popular than purchasing instant coffee.
+Regarding coffee purchases, around half of the residents in all cities preferred instant coffee, while fresh coffee was generally less favored. The gap between these two categories ranged from a narrow margin in Sydney and Melbourne to a significant difference in Brisbane, Adelaide, and Hobart, where fresh coffee buyers accounted for roughly half the number of instant coffee buyers.
+These patterns indicate that residents in the five cities prioritize convenience when it comes to coffee and tea, as reflected in their strong preference for visiting cafés or buying instant coffee rather than opting for fresh coffee.
+
+柱状图展示了澳大利亚五个城市居民购买和饮用咖啡和茶的习惯。具体来说，它比较了过去四周内去咖啡馆喝咖啡或茶的人数比例，以及购买新鲜咖啡或速溶咖啡的人数比例。
+总体而言，在悉尼、墨尔本和霍巴特，去咖啡馆是最受欢迎的活动，超过 60% 的居民有这种习惯。同样，布里斯班约有 55% 的居民光顾咖啡馆，而阿德莱德的这一比例略低于 50%，是唯一一个光顾咖啡馆的比例低于购买速溶咖啡的城市。
+在购买咖啡方面，所有城市都有一半左右的居民喜欢速溶咖啡，而新鲜咖啡则普遍不受欢迎。这两类咖啡之间的差距从悉尼和墨尔本的微弱差距到布里斯班、阿德莱德和霍巴特的显著差距不等，在这些城市，购买新鲜咖啡的人数约占购买速溶咖啡人数的一半。
+这些模式表明，这五个城市的居民在购买咖啡和茶时将便利性放在首位，这反映在他们更喜欢去咖啡馆或购买速溶咖啡，而不是选择新鲜咖啡。
+
 一、表示对比：
 （一）两者对比
 1.不论时间，A与B相比
