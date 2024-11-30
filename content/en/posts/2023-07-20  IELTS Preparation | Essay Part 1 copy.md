@@ -1,6 +1,6 @@
 ---
 title: " IELTS Preparation|Essay Part 1"
-date: 2023-07-21T21:42:57-05:00
+date: 2023-07-21
 author: Zhenting HE
 slug: second-post
 draft: false
