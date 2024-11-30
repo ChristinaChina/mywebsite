@@ -8,4 +8,4 @@ I am a third-year master's student at Shenzhen University's School of Media and 
 
 Currently, I am applying for a doctoral program. For academic details, please refer to the <a href='https://www.zhentinghe.com/en/about/' target="_blank">'About'</a > tab. To view personal posts that reflect my personality, please check the <a href='https://www.zhentinghe.com/en/posts/' target="_blank">'Posts'</a > tab.
 
-<a href='/files/简历-何振婷(10.18.24).pdf'  target="_blank"> Curriculum Vitae </a > 
+<a href='/files/CV-Zhenting HE.pdf'  target="_blank"> Curriculum Vitae </a > 
