@@ -1,6 +1,6 @@
 ---
 title: " IELTS Preparation | Spoken Part"
-date: 2023-07-19T21:42:57-05:00
+date: 2023-07-19
 author: Zhenting HE
 slug: second-post
 draft: false

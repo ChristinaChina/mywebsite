@@ -17,6 +17,9 @@ My parents, who have stood unwaveringly behind me since the day I was born, have
 Of course, I cannot overlook the fact that the pandemic’s restrictions consumed much of my college life. The suffocating feeling of daily life being tightly constrained left an indelible mark, and I am not sure when, or if, this weight will fully lift. I have come to embrace the idea of letting the winds of the times carry me wherever they will and planting roots wherever I land. When necessary, I believe in being bold and even angry. That way, when I revisit this journey one day, I can find comfort in knowing I dared to respond to the challenges and uncertainties of my era.
 
 I am deeply grateful for every encounter and every connection. These rich experiences have shaped me, making my journey through these years profoundly meaningful and uniquely my own.
+
+{{<figure src="/images/Graduation photo-05.jpg" title="Me in parts of the school" width="360">}}
+
 {{<figure src="/images/Graduation photo-01.jpg" title="Me and my best friend Wenxuan HU" width="360">}}
 
 {{<figure src="/images/Graduation photo-02.jpg" title="Fiends in the Environmental Protection Club" width="360">}}
@@ -24,8 +27,6 @@ I am deeply grateful for every encounter and every connection. These rich experi
 {{<figure src="/images/Graduation photo-03.jpg" title="Me and my roommate" width="360">}}
 
 {{<figure src="/images/FGraduation photo-04.jpg" title="Graduation Defense and Subject Group" width="360">}}
-
-{{<figure src="/images/Graduation photo-05.jpg" title="Me in parts of the school" width="360">}}
 
 {{<figure src="/images/Graduation photo-06.jpg" title="My documentary partners" width="360">}}
 
