@@ -1,5 +1,5 @@
 ---
-title: "Assignment Sharing | Documentary 'Southbound and Northbound'"
+title: "Assignment Sharing|Documentary 'Southbound and Northbound'"
 date: 2021-01-21T15:20:57-18:00
 author: Zhenting HE
 slug: second-post

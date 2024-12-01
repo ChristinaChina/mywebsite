@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate life comes to an end"
+title: "Undergraduate Life Comes to An End"
 date: 2022-06-30T21:42:57-05:00
 author: Zhenting HE
 slug: second-post

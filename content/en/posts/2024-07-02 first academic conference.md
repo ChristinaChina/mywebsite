@@ -1,5 +1,5 @@
 ---
-title: "First participation in academic conference"
+title: "First Participation in Academic Conference"
 date: 2024-07-02
 author: Zhenting HE
 slug: road-not-taken
@@ -21,7 +21,7 @@ Amidst the absolutely gorgeous scenery, I felt completely at ease. On the day of
 
 Sensing my unease, a doctoral student from Beijing University traveling with me gave me a gentle pat on the shoulder and offered encouragement. "It's okay! Think about it—those panelists already have high external recognition, but the fact that you, at such a young age, can stand on the same stage as them also proves your capability! "Since the reviewers accepted your paper, you should confidently present your work." Her words were a revelation, offering me immense comfort. She was absolutely right! If I lacked confidence in myself, how could I possibly expect others to take an interest in my research?  
 
-When it was finally my turn to present, I took a deep breath, adjusted my breathing to calm myself, and began my first formal academic presentation. I was so excited to share my work with everyone! With a clear and steady voice, I started with a smile on my face. *"Dear distinguished chair and panelists…"* The moment I spoke, I was flooded with a growing sense of composure and confidence, and my words flowed more smoothly than I could have imagined! It was incredible! All my preparation had converged into a force at that moment, and I realized I was more capable than I had ever imagined! I was thrilled to present the background, methodology, findings, and significance of my research, even taking note of the panelists' reactions. Their encouraging smiles gave me a huge boost in confidence!  
+When it was finally my turn to present, I took a deep breath, adjusted my breathing to calm myself, and began my first formal academic presentation. I was so excited to share my work with everyone! With a clear and steady voice, I started with a smile on my face. *"Dear distinguished chair and panelists…"The moment I spoke, I was flooded with a growing sense of composure and confidence, and my words flowed more smoothly than I could have imagined! It was incredible! All my preparation had converged into a force at that moment, and I realized I was more capable than I had ever imagined! I was thrilled to present the background, methodology, findings, and significance of my research, even taking note of the panelists' reactions. Their encouraging smiles gave me a huge boost in confidence!  
 
 After my presentation, the panelists gave me some amazing feedback and really valuable suggestions. This was a huge boost for my confidence in my research, and it also made me appreciate even more the true joy of academic exploration: continuous learning and progress! I realized that in academia, there's no such thing as being completely "ready"—and that's a good thing! The key is taking that first step and then finding better directions as you move forward!  
 
