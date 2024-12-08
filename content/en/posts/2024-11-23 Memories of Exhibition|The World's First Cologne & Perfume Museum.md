@@ -4,7 +4,6 @@ date: 2024-11-23
 author: Zhenting HE
 slug: second-post
 draft: false
-toc: true
 categories:
   - test
 tags:

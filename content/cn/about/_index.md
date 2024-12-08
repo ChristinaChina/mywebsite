@@ -1,7 +1,6 @@
 ---
 title: "可辰简历"
 type : list-single
-toc: true
 ---
 
 姓名：可辰

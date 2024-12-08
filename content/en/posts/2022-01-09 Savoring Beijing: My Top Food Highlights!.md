@@ -4,7 +4,6 @@ date: 2022-01-09
 author: Zhenting HE
 slug: second-post
 draft: false
-toc: true
 categories:
   - Hoping for the End of COVID-19
 tags:

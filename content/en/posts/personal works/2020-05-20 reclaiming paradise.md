@@ -4,7 +4,6 @@ date: 2020-05-20T15:20:57-18:00
 author: Zhenting HE
 slug: second-post
 draft: false
-toc: true
 categories:
   - test
 tags:

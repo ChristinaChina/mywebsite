@@ -4,7 +4,6 @@ date: 2024-07-02
 author: Zhenting HE
 slug: road-not-taken
 draft: false
-toc: false
 categories:
   - test
 tags:
