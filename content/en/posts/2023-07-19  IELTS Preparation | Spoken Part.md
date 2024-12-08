@@ -1,5 +1,5 @@
 ---
-title: " IELTS Preparation|Speaking Part"
+title: "IELTS Preparation|Speaking Part"
 date: 2023-07-19
 author: Zhenting HE
 slug: second-post

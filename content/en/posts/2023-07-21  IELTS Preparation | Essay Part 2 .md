@@ -1,5 +1,5 @@
 ---
-title: " IELTS Preparation|Essay Part 2"
+title: "IELTS Preparation|Essay Part 2"
 date: 2023-07-21
 author: Zhenting HE
 slug: second-post
