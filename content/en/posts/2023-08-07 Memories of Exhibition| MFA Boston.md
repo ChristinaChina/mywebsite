@@ -13,6 +13,7 @@ While sorting out my memories, I found out that the Boston Museum of Fine Arts h
 
 {{<figure src="/images/Where Do We Come From? What Are We?.jpg" title="Where Do We Come From? What Are We? Where Are We Going?, Paul Gauguin, 1897-98" width="720">}}
 
+{{<figure src="/images/Grotto by the Seaside in the Kingdom of Naples with Banditti, Sunset.jpg" title="Grotto by the Seaside in the Kingdom of Naples with Banditti, Sunset, Joseph Wright of Derby, 1778" width="720">}}
 
 {{<figure src="/images/Summer Night's Dream.jpg" title="Summer Night's Dream, Edvard Munch, 1893" width="360">}}
 

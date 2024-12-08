@@ -10,14 +10,14 @@ I am interested in cultural studies, particularly in the interplay between techn
 
 ## Personal Information
 ### Educational Background
-   M.A. in Journalism and Communication\
-   Shenzhen University, China, 2022-2025
+   1. M.A. in Journalism and Communication
+      Shenzhen University, China, 2022-2025
 
-   Visiting student in Cultural and Social Anthropology\
-   Philipps University of Marburg, Germany, 2024-2025
+   2. Visiting student in Cultural and Social Anthropology
+      Philipps University of Marburg, Germany, 2024-2025
 
-   B.A. in Journalism (Radio and Television Studies)\
-   Jiangxi Normal University, China, 2018-2022
+   3. B.A. in Journalism (Journalism/Radio and Television Studies)
+      Jiangxi Normal University, China, 2018-2022
 
 ### Contact Details
    Website: zhentinghe.com\
@@ -29,7 +29,7 @@ I am interested in cultural studies, particularly in the interplay between techn
 Huang, W., He, Z., Zhao, Q., & Chang, J., Public Trust and Community Develpment: A Review of Communication Research in 2023, Press, 2024, (01), 32-48. 【Chinese Social Sciences Citation Index】\
 This article uses the LDA topic model to conduct a comprehensive and detailed review of global communication research in 2023 and summarizes the core issues and evolving patterns of the current theoretical development of communication studies. Through topic clustering and text mining of 2210 academic papers, this article distills six major sections and 19 themes of journalism research this year and analyzes representative literature under different themes. This article finds three core characteristics of global communication research in 2023: exploring how public trust is reaffirmed and reconstructed in the digital media ecosystem; interpreting the close relationship between digital media technology and the development of different types of communities; concerning people's physical and mental health and spiritual well-being in the digital information environment. This article believes that in an era of highly integrated concepts and experiences, overly refined typological systems and sectoral consciousness have become obstacles to theoretical growth. Communication academia must make changes to the sociology-political science binary that dominates its development to realize real growth.
 
-## peer-reviewed conference presentations
+### Peer-reviewed Conference Presentations
 1. He, Z. 2024. Aesthetics as an Invisible Power: A Chronological Examination Based on Youth’ s Cultural Consumption of Celebrities. Paper Presented at the 107th Association for Education in Journalism and Mass Communication(AEJMC), Philadelphia, America. \
 As one of the most prevalent symbols in media culture, celebrity has an equally important influence on the aesthetic culture of society at large. Based on this, this study conducted in-depth interviews with 27 individuals from different generations, aiming to reveal the changes in the consumption of celebrity symbols by Chinese youth, and to explore the role of aesthetic power in this field. It is found that the changes in individuals’ aesthetic experiences not only reflect the ideologies and social disciplines of different eras, but also the process of consumers adjusting their aesthetics for greater exchange value. This paper asserts that the process of celebrity consumption is an intertwining of aesthetic change and fantasy overflow in reality, reflecting the complex aesthetic mechanisms and cultural dynamics in consumer society.
 
@@ -39,7 +39,7 @@ This study explores the changes in the object, time, and space of digital mourni
 3. He, Z. 2024. Research on the Female Images in Hou Hsiao-hsien’ s Films. Paper Presented at the 2024 International Association for Media and Communication Research(IAMCR), Christchurch, New Zealand.\
 This paper employs textual analysis as the primary research method, examining the portrayal of women in the 19 films directed by Hou Hsiao-hsien and categorizing it into two distinct groups: women within the family and women in society. It then proceeds to interpret and refine these portrayals through the use of comparison and analogical analysis, as well as dialectical thinking to elucidate the differences and similarities in the representation of female images and the characterization under the mapping of female images.
 
-## Undereviewed Paper
+### Undereviewed Paper
 1. He, Z. The Work Ethic of Chinese Digital Feminists: From the Neoliberalism Perspective\
 In this essay, I employ online ethnographic study and in-depth interviews with 35 Chinese digital feminists to illustrate how digital feminists in China respondto neoliberal conditions and how they sustain their activism despite a lack of unanimous support within their own groups. My analysis indicates that digital feminists in China have employed public interest activities as a cultural instrument tochallenge the advancement of global neoliberalism. Consequently, they have progressively investigated the formulation of a feminist cultural politics that is alignedwith the political and commercial contexts of China.
 
@@ -49,7 +49,7 @@ This paper employs a mixed-methods approach, integrating data from two sources: 
 3. He, Z. Affective Mechanisms in Digital Journalism: What is Possible and What is Doable\
 This paper examines the characteristics of different disciplines to review the literature on “digital journalism”, “emotion/affect” and “emotional/affective research in digital journalism”. It highlights the importance of emotional mechanisms in digital journalism from both theoretical and epistemological perspectives. Building on this foundation, the paper analyzes and summarizes existing research on emotional mechanisms within the global academic community, focusing on the levels of journalism production, distribution, and reception. 
 
-## Ongoing Project
+### Ongoing Project
 The empathy machine under the perspective of platform capitalism: based on a study of disadvantaged groups with disabilities in Douyin
 
 ## Academic Serivice
@@ -57,7 +57,7 @@ The empathy machine under the perspective of platform capitalism: based on a stu
 2. Student Assistant to the Organiser, <a href='http://www.ccgc-szu.com/h-nd-86.html' target="_blank">Annual Conference on Digital Journalism in China</a >, May, 2024
 3. Assistant to the Organiser, <a href='https://www.tencentcloud.com/act/pro/2024gdes' target="_blank">Tencent Global Digital Ecosystem Summit</a >, September, 2024
 
-## Research Experience
+## Research Experiences
 ### Digital Media Culture Lab, Shenzhen University 
 #### Student Research Assistant, Feburary,2023 - August, 2024
 1. Participated in four research projects focusing on media discourse and national narratives. My main work covered the entire research process, including literature review, data collection/interviews, empirical analysis, and final writing revisions.These projects gave me a broad understanding of communication dynamics, improved my knowledge of different research methods, and confirmed my decision to focus on qualitative research. In addition to my advisor Jiang CHANG, the project faculty includes Wensen HUANG (assistant
@@ -72,22 +72,22 @@ academic taste for the research directions of digital media culture and digital 
 2. Conducted result analyses on various project questionnaires, by utilizing STATA and SPSS data analysis software, significantly enhancing my statistical knowledge and data analysis skills. This experience has empowered me to read academic articles related to these methods with greater ease and comprehension.
 
 ## Awards and Fellowships
-1. 2023-2024 National Scholarship (Top 0.2% ), Ministry of Education of the People’ s Republic of China Beijing, China 
-2. 2022-2023 Top-level Academic Scholarship , Shenzhen University Shenzhen, China 
+1. 2023-2024 National Scholarship (Top 0.2% ), <a href='https://hudong.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_yjs/201508/t20150810_199224.html' target="_blank">Ministry of Education of the People’ s Republic of China</a >
+2. 2022-2023 Top-level Academic Scholarship , Shenzhen University
 3. 2018-2022 Outstanding Students Scholarship (Top 1%, fourth) , Jiangxi Normal University Nanchang, China 
 4. 2022 Honours Degree & Outstanding Graduates, Jiangxi Normal University Nanchang, China 
-5. 2021 Honorable Mention of Art Design, Ministry of Industry and Information Technology of China Beijing, China 
-6. 2021 Outstanding Volunteer(Top 0.7%), Jiangxi Normal University Nanchang, China 
-7. 2021 National Second Prize for Videography, Academy Award of Advertising Arts Festival Beijing, China 
-8. 2021 National Second Prize for Visualization Design, Chinese Collegiate Computing Competition Xiamen, China 
-9. 2020 Best in Arts and Culture News Reporting, Campus Newspaper Award, China Daily Asia Hongkong, China 
-10. 2019 National Second Prize, National English Competition for College Students Nanchang, China
+5. 2021 Honorable Mention of Art Design, <a href='https://dasai.lanqiao.cn/notices/1596/' target="_blank">Ministry of Industry and Information Technology of Chinathe People’ s Republic of China</a >
+6. 2021 Outstanding Volunteer(Top 0.7%), Jiangxi Normal University
+7. 2021 National Second Prize for Videography, Academy Award of Advertising Arts Festival
+8. 2021 National Second Prize for Visualization Design, <a href='https://jsjds.blcu.edu.cn/' target="_blank">Chinese Collegiate Computing Competition</a >
+9. 2020 Best in Arts and Culture News Reporting, <a href='https://campus.chinadailyasia.com/en/home/13' target="_blank">Campus Newspaper Award, China Daily Asia</a >
+10. 2019 National Second Prize, National English Competition for College Students 
 
 ## Skills
 ### Professional Skills
 1. Data analysis: NVIVO (Proficient), MAXQDA (Proficient), SPSS (Intermediate), STATA (Intermediate)
 2. Languages: Hakka (Native), English (Proficient), Korean (Intermediate), German (Elementary)
 
-### Additional skills & interests
+### Additional Skills & Interests
 1. Applications: Adobe Photoshop, Adobe Premiere, Final Cut Pro, Davinci Resolve
 2. Specialties & hobbies:Guzheng (Level 8 Certificate), Trap, Swimming, Detective (thriller-mystery) movies
