@@ -74,20 +74,20 @@ academic taste for the research directions of digital media culture and digital 
 ## Awards and Fellowships
 1. 2023-2024 National Scholarship (Top 0.2% ), <a href='https://hudong.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_yjs/201508/t20150810_199224.html' target="_blank">Ministry of Education of the People’ s Republic of China</a >
 2. 2022-2023 Top-level Academic Scholarship , Shenzhen University
-3. 2018-2022 Outstanding Students Scholarship (Top 1%, fourth) , Jiangxi Normal University Nanchang, China 
-4. 2022 Honours Degree & Outstanding Graduates, Jiangxi Normal University Nanchang, China 
+3. 2018-2022 Outstanding Students Scholarship (Top 1%, fourth) , Jiangxi Normal University
+4. 2022 Honours Degree & Outstanding Graduates, Jiangxi Normal University
 5. 2021 Honorable Mention of Art Design, <a href='https://dasai.lanqiao.cn/notices/1596/' target="_blank">Ministry of Industry and Information Technology of Chinathe People’ s Republic of China</a >
 6. 2021 Outstanding Volunteer(Top 0.7%), Jiangxi Normal University
 7. 2021 National Second Prize for Videography, Academy Award of Advertising Arts Festival
-8. 2021 National Second Prize for Visualization Design, <a href='https://jsjds.blcu.edu.cn/' target="_blank">Chinese Collegiate Computing Competition</a >
+8. 2021 National Second Prize for Visualization Design, <a href='https://jsjds.blcu.edu.cn/' target="_blank">Chinese Collegiate Computing Competition
 9. 2020 Best in Arts and Culture News Reporting, <a href='https://campus.chinadailyasia.com/en/home/13' target="_blank">Campus Newspaper Award, China Daily Asia</a >
 10. 2019 National Second Prize, National English Competition for College Students 
 
 ## Skills
 ### Professional Skills
 1. Data analysis: NVIVO (Proficient), MAXQDA (Proficient), SPSS (Intermediate), STATA (Intermediate)
-2. Languages: Hakka (Native), English (Proficient), Korean (Intermediate), German (Elementary)
+2. Languages: Mandarin(native), Hakka (Native), English (Proficient), Korean (Intermediate), German (Elementary)
 
 ### Additional Skills & Interests
 1. Applications: Adobe Photoshop, Adobe Premiere, Final Cut Pro, Davinci Resolve
-2. Specialties & hobbies:Guzheng (Level 8 Certificate), Trap, Swimming, Detective (thriller-mystery) movies
+2. Specialties & hobbies: Guzheng (Level 8 Certificate), Trap, Swimming, Detective (thriller-mystery) movies
