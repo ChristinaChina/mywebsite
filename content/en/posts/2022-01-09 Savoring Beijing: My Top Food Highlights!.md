@@ -5,8 +5,8 @@ author: Zhenting HE
 slug: second-post
 draft: false
 toc: true
-categories:Hoping for the End of COVID-19
-  - test
+categories:
+  - Hoping for the End of COVID-19
 tags:
   - Pray for a return to normalcy
 ---
