@@ -11,6 +11,7 @@ tags:
   - Pray for a return to normalcy
 ---
 When I saw the news, it suddenly reminded me of a year when I traveled to Beijing three times in three months to handle various documents. Of course, every trip to Beijing meant an opportunity to dive into its food scene. Here are my top three favorite dishes:
+
 1. Shabu-shabu – absolutely unbeatable, my top pick!
 2. Pear soup – sweet but perfectly balanced, earning second place.
 3. Stir-fried vegetables – from a restaurant famous for its roast duck, a solid third.
