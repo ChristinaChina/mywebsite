@@ -8,6 +8,7 @@ categories:
   - test
 tags:
   - Academic Journey
+---
 
 A new phase of reporting has commenced. I would like to present a topic that has been occupying my thoughts recently, although I have not yet obtained approval from my academic advisor. The topic is available here, and I have been considering how to transform it into a compelling subject for further investigation. Alternatively, there may be a more suitable individual than myself to pursue this topic.
 
