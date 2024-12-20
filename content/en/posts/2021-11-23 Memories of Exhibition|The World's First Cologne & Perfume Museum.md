@@ -1,6 +1,6 @@
 ---
 title: "Memories of Exhibition|The World's First Cologne & Perfume Museum"
-date: 2024-11-23
+date: 2021-11-23
 author: Zhenting HE
 slug: second-post
 draft: false
