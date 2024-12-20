@@ -1,5 +1,5 @@
 ---
-title: "Thesis Writing Sharing|My First Academic Practice"
+title: "Thesis Writing Sharing|A Study of Women in Hou Hsiao-hsien's Films"
 date: 2022-05-15
 author: Zhenting HE
 slug: second-post
@@ -111,51 +111,51 @@ Thirdly, film can be considered a reflection of reality, but it can also be view
 Finally, feminism has never been a battlefield for women. The growth of women requires not only self-respect and self-love, but also the pursuit of independence, equality and freedom by women themselves. At the same time, men, including those who grow up with them, should also treat women with a sense of equality and respect for women. What is important between men and women is mutual respect and independence and equality of personality. This kind of respect and equality is not simply confrontation or harmony, but mutual understanding and respect reached through disputes, discussions and exchanges. It involves every existing individual, and expresses the rejection of power, the refutation of discrimination, and the resistance to prejudice, and the struggle against the absolute, monolithic, and one-sided understanding of our society. It is not only women who need to be rescued, it is every individual who is persecuted by the patriarchy. This foundational civilisation requires every modern person with ‘presence’ to look directly, introspect and rethink, to go beyond simple gender essentialism and gender constructivism, to transcend gender dichotomies, and to shape a more peaceful relationship between genders and society.
 
 # References
-Alzahrani, F. (2016). The portrayal of women and gender roles in films. International Journal of Scientific & Engineering Research, 7(4), 533–534.
-Bazin, A. (2004). The evolution of the language of cinema. In What Is Cinema? Volume I (pp. 23–40). University of California Press.
-Bazzini, D. G., McIntosh, W. D., Smith, S. M., et al. (1997). The aging woman in popular film: Underrepresented, unattractive, unfriendly, and unintelligent. Sex Roles, 36(7), 531–543.
-Behm-Morawitz, E., & Mastro, D. (2009). The effects of the sexualization of female video game characters on gender stereotyping and female self-concept. Sex Roles, 61(11), 808–823.
-Browne Graves, S. (1999). Television and prejudice reduction: When does television as a vicarious experience make a difference? Journal of Social Issues, 55(4), 707–727.
-Cassirer, E. (2021). An essay on man. In An Essay on Man. Yale University Press.
-Chen, X., & Li, Y. (2013). The “long take” in comparison: Language, aesthetics, and culture in Hou Hsiao-hsien and Jia Zhangke's films. New Films, 2013(02), 10–15.
-Coltrane, S., & Adams, M. (1997). Work–family imagery and gender stereotypes: Television and the reproduction of difference. Journal of Vocational Behavior, 50(2), 323–347.
-Dooley, K. (2021). Women in the International Film Industry: Policy, Practice and Power, edited by Susan Liddy. Alphaville: Journal of Film and Screen Media, 2021(21), 235–238.
-Eisenberg, N., Fabes, R. A., & Spinrad, T. L. (2006). Handbook of child psychology. NJ: John Wiley & Sons.
-Field, S. (1982). Screenplay. New York: Delacorte.
-Field, S. (2003). The definitive guide to screenwriting. Random House.
-Field, S. (2016). 电影剧本写作基础 (钟大丰 & 鲍玉珩, Trans.). 北京联合出版公司.
-French, L. (2020). Gender Still Matters: Towards Sustainable Progress for Women in Australian Film and Television Industries. In Women in the International Film Industry (pp. 271–291). Palgrave Macmillan, Cham.
-Freud, S. (1953). Three essays on the theory of sexuality. In The standard edition of the complete psychological works of Sigmund Freud, volume VII (1901–1905): A case of hysteria, three essays on sexuality and other works (pp. 123–246).
-Good, H. (1998). Girl reporter: Gender, journalism, and the movies. Scarecrow Press.
-Heilman, M. E., & Okimoto, T. G. (2008). Motherhood: A potential source of bias in employment decisions. Journal of Applied Psychology, 93(1), 189.
-Hentges, B., & Case, K. (2013). Gender representations on Disney Channel, Cartoon Network, and Nickelodeon broadcasts in the United States. Journal of Children and Media, 7(3), 319–333.
-Hilton, J. L., & Von Hippel, W. (1996). Stereotypes. Annual Review of Psychology, 47(1), 237–271.
-Hyde, J. S., Bigler, R. S., Joel, D., et al. (2019). The future of sex and gender in psychology: Five challenges to the gender binary. American Psychologist, 74(2), 171.
-Kaplan, E. A. (2013). Women & film. Routledge.
-Kristeva, J., Jardine, A., & Blake, H. (1981). Women’s time. Signs: Journal of Women in Culture and Society, 7(1), 13–35.
-Liu, J. (2003). 红楼梦诗词赏析. 吉林摄影出版社.
-Liu, X. (2007). 新世纪中国大陆女性电影中的女性形象分析 (Master’s thesis). 北京大学.
-Liu, Y. (2012). 文化视域中台湾电视女性形象建构分析 (Master’s thesis). 西北大学.
-Millett, K. (2016). Sexual politics. Columbia University Press.
-Mulvey, L. (1989). Visual pleasure and narrative cinema. In Visual and Other Pleasures (pp. 14–26). Palgrave Macmillan, London.
-Nowakowski, A. C. H., Sumerau, J. E., & Mathers, L. A. B. (2016). None of the above: Strategies for inclusive teaching with “representative” data. Teaching Sociology, 44(2), 96–105.
-Peirce, C. S. (1991). Peirce on signs: Writings on semiotic. UNC Press Books.
-Rich, A. (2021). Of woman born: Motherhood as experience and institution. WW Norton & Company.
-Ritzer, G. (2010). The McDonaldization of society: 20th anniversary edition. SAGE Publications.
-Rothman, W. (2013). The “I” of the camera: Essays in film criticism, history, and aesthetics. Cambridge University Press.
-Silverman, K. (1988). The acoustic mirror: The female voice in psychoanalysis and cinema. Indiana University Press.
-Smith, S. L., Choueiti, M., & Pieper, K. (2017). Inequality in 900 popular films: Examining portrayals of gender, race, & LGBT status from 2007 to 2016. USC Annenberg School for Communication and Journalism.
-Sturken, M., & Cartwright, L. (2017). Practices of looking: An introduction to visual culture (3rd ed.). Oxford University Press.
-Tharp, T. (2003). The creative habit: Learn it and use it for life. Simon and Schuster.
-Thompson, K. (1988). Breaking the glass armor: Neoformalist film analysis. Princeton University Press.
-Tuchman, G., Daniels, A. K., & Benet, J. (Eds.). (1978). Hearth and home: Images of women in the mass media. Oxford University Press.
-Wang, C. (2010). An analysis of female images in contemporary Chinese movies. Modern Film, 2010(4), 17–22.
-Wang, Q., & Wang, L. (2008). Women’s images in the media. Journal of Communication Research, 2008(3), 15–22.
-Weber, M. (1946). Politics as a vocation. In From Max Weber: Essays in sociology (pp. 77–128). Oxford University Press.
-Wei, M., & Zhu, Y. (2005). The socialization of gender roles through media representations: An exploration. Media and Society, 2005(3), 50–54.
-Xu, X., & Yang, J. (2018). Female representation in film: A comparative study of Hollywood and Chinese movies. Journal of Contemporary Film Studies, 2018(2), 89–103.
-Yang, Y. (2016). The symbolic function of female characters in film. New Horizons in Humanities and Social Sciences, 2016(2), 55–63.
-Zeng, X., & Li, F. (2009). Gender identity and the representation of women in Chinese cinema. Journal of Gender Studies, 2009(1), 24–30.
-Zhang, T., & Sun, J. (2012). Constructing the female image in contemporary Chinese films. Cultural and Media Studies, 2012(1), 32–38.
-Zhao, H. (2015). The evolution of the female figure in Chinese cinema: A historical review. Film Studies, 2015(3), 11–19.
-Zheng, M., & Lu, P. (2014). Gender and media: A study of the representation of women in Chinese television. Asian Journal of Communication, 2014(2), 67–74.
+1.Alzahrani, F. (2016). The portrayal of women and gender roles in films. International Journal of Scientific & Engineering Research, 7(4), 533–534.
+2.Bazin, A. (2004). The evolution of the language of cinema. In What Is Cinema? Volume I (pp. 23–40). University of California Press.
+3.Bazzini, D. G., McIntosh, W. D., Smith, S. M., et al. (1997). The aging woman in popular film: Underrepresented, unattractive, unfriendly, and unintelligent. Sex Roles, 36(7), 531–543.
+4.Behm-Morawitz, E., & Mastro, D. (2009). The effects of the sexualization of female video game characters on gender stereotyping and female self-concept. Sex Roles, 61(11), 808–823.
+5.Browne Graves, S. (1999). Television and prejudice reduction: When does television as a vicarious experience make a difference? Journal of Social Issues, 55(4), 707–727.
+6.Cassirer, E. (2021). An essay on man. In An Essay on Man. Yale University Press.
+7.Chen, X., & Li, Y. (2013). The “long take” in comparison: Language, aesthetics, and culture in Hou Hsiao-hsien and Jia Zhangke's films. New Films, 2013(02), 10–15.
+8.Coltrane, S., & Adams, M. (1997). Work–family imagery and gender stereotypes: Television and the reproduction of difference. Journal of Vocational Behavior, 50(2), 323–347.
+9.Dooley, K. (2021). Women in the International Film Industry: Policy, Practice and Power, edited by Susan Liddy. Alphaville: Journal of Film and Screen Media, 2021(21), 235–238.
+10.Eisenberg, N., Fabes, R. A., & Spinrad, T. L. (2006). Handbook of child psychology. NJ: John Wiley & Sons.
+11.Field, S. (1982). Screenplay. New York: Delacorte.
+12.Field, S. (2003). The definitive guide to screenwriting. Random House.
+13.Field, S. (2016). 电影剧本写作基础 (钟大丰 & 鲍玉珩, Trans.). 北京联合出版公司.
+14.French, L. (2020). Gender Still Matters: Towards Sustainable Progress for Women in Australian Film and Television Industries. In Women in the International Film Industry (pp. 271–291). Palgrave Macmillan, Cham.
+15.Freud, S. (1953). Three essays on the theory of sexuality. In The standard edition of the complete psychological works of Sigmund Freud, volume VII (1901–1905): A case of hysteria, three essays on sexuality and other works (pp. 123–246).
+16.Good, H. (1998). Girl reporter: Gender, journalism, and the movies. Scarecrow Press.
+17.Heilman, M. E., & Okimoto, T. G. (2008). Motherhood: A potential source of bias in employment decisions. Journal of Applied Psychology, 93(1), 189.
+18.Hentges, B., & Case, K. (2013). Gender representations on Disney Channel, Cartoon Network, and Nickelodeon broadcasts in the United States. Journal of Children and Media, 7(3), 319–333.
+19.Hilton, J. L., & Von Hippel, W. (1996). Stereotypes. Annual Review of Psychology, 47(1), 237–271.
+20.Hyde, J. S., Bigler, R. S., Joel, D., et al. (2019). The future of sex and gender in psychology: Five challenges to the gender binary. American Psychologist, 74(2), 171.
+21.Kaplan, E. A. (2013). Women & film. Routledge.
+22.Kristeva, J., Jardine, A., & Blake, H. (1981). Women’s time. Signs: Journal of Women in Culture and Society, 7(1), 13–35.
+23.Liu, J. (2003). 红楼梦诗词赏析. 吉林摄影出版社.
+24.Liu, X. (2007). 新世纪中国大陆女性电影中的女性形象分析 (Master’s thesis). 北京大学.
+25.Liu, Y. (2012). 文化视域中台湾电视女性形象建构分析 (Master’s thesis). 西北大学.
+26.Millett, K. (2016). Sexual politics. Columbia University Press.
+27.Mulvey, L. (1989). Visual pleasure and narrative cinema. In Visual and Other Pleasures (pp. 14–26). Palgrave Macmillan, London.
+28.Nowakowski, A. C. H., Sumerau, J. E., & Mathers, L. A. B. (2016). None of the above: Strategies for inclusive teaching with “representative” data. Teaching Sociology, 44(2), 96–105.
+29.Peirce, C. S. (1991). Peirce on signs: Writings on semiotic. UNC Press Books.
+30.Rich, A. (2021). Of woman born: Motherhood as experience and institution. WW Norton & Company.
+31.Ritzer, G. (2010). The McDonaldization of society: 20th anniversary edition. SAGE Publications.
+32.Rothman, W. (2013). The “I” of the camera: Essays in film criticism, history, and aesthetics. Cambridge University Press.
+33.Silverman, K. (1988). The acoustic mirror: The female voice in psychoanalysis and cinema. Indiana University Press.
+34.Smith, S. L., Choueiti, M., & Pieper, K. (2017). Inequality in 900 popular films: Examining portrayals of gender, race, & LGBT status from 2007 to 2016. USC Annenberg School for Communication and Journalism.
+35.Sturken, M., & Cartwright, L. (2017). Practices of looking: An introduction to visual culture (3rd ed.). Oxford University Press.
+36.Tharp, T. (2003). The creative habit: Learn it and use it for life. Simon and Schuster.
+37.Thompson, K. (1988). Breaking the glass armor: Neoformalist film analysis. Princeton University Press.
+38.Tuchman, G., Daniels, A. K., & Benet, J. (Eds.). (1978). Hearth and home: Images of women in the mass media. Oxford University Press.
+39.Wang, C. (2010). An analysis of female images in contemporary Chinese movies. Modern Film, 2010(4), 17–22.
+40.Wang, Q., & Wang, L. (2008). Women’s images in the media. Journal of Communication Research, 2008(3), 15–22.
+41.Weber, M. (1946). Politics as a vocation. In From Max Weber: Essays in sociology (pp. 77–128). Oxford University Press.
+42.Wei, M., & Zhu, Y. (2005). The socialization of gender roles through media representations: An exploration. Media and Society, 2005(3), 50–54.
+43.Xu, X., & Yang, J. (2018). Female representation in film: A comparative study of Hollywood and Chinese movies. Journal of Contemporary Film Studies, 2018(2), 89–103.
+44.Yang, Y. (2016). The symbolic function of female characters in film. New Horizons in Humanities and Social Sciences, 2016(2), 55–63.
+45.Zeng, X., & Li, F. (2009). Gender identity and the representation of women in Chinese cinema. Journal of Gender Studies, 2009(1), 24–30.
+46.Zhang, T., & Sun, J. (2012). Constructing the female image in contemporary Chinese films. Cultural and Media Studies, 2012(1), 32–38.
+47.Zhao, H. (2015). The evolution of the female figure in Chinese cinema: A historical review. Film Studies, 2015(3), 11–19.
+48.Zheng, M., & Lu, P. (2014). Gender and media: A study of the representation of women in Chinese television. Asian Journal of Communication, 2014(2), 67–74.
