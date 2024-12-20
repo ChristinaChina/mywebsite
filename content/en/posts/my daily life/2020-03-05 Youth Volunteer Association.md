@@ -1,5 +1,5 @@
 ---
-title: "The First Snow of 2024"
+title: "My Youth Volunteer Association Yearly Memories "
 date: 2020-03-05
 author: Zhenting HE
 slug: second-post
@@ -14,7 +14,7 @@ Recently, I just happened to be working on the summary of the Youth Volunteer As
 I've been a part of the Youth Volunteer Association for a year and a half now, and I've been leading activities almost every Saturday morning and afternoon. It's been a year of growth and development for me, moving from volunteering to leading a team. When I first took over, I always felt that going to specific volunteer positions and helping specific people seemed more effective than taking on more managerial positions such as liaising and coordinating, especially for us students. I have to admit that I'm not that into spending time on these things, to be honest. I really enjoy reporting and coordinating all kinds of meetings, and reporting the progress of my work to the college and the school league committee every week. This report contains press releases of at least three activities, summaries of the week and work plans for the next week. But I found that as head of the team, I had more authority to push forward what I wanted to do, and I could take the phenomena I had previously observed in specific activities, put forward my own proposals, and pay for actions with the help of my teachers. For example, I've been working on this really exciting fixed-point cooperation project between the college and the Green Health Care Group, which is going to be officially listed as a demonstration site in September 2019 – how great is that?! I've also been working with the College of Education to promote the 'House of Love' activity, which is all about caring for children in the autistic school. I've also set up a daily volunteer contact group, and with the team's support, we've encouraged at least 300 students to participate in the daily practice of public welfare. I'm currently thinking about how to make it sustainable after I leave the association.
 
 I'm so excited to tell you all about what we've been up to this year!
-{{<figure src="/images/Young Volunteers Association.jpg" title="Young Volunteers Association" width="360">}}
+{{<figure src="/images/Young Volunteers Association.jpg" title="Young Volunteers Association" width="600">}}
 
 # 2019 Annual Volunteering Summary of the Youth Volunteer Work Center, School of Journalism and Communication
 
