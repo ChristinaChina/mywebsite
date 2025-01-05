@@ -1,5 +1,5 @@
 ---
-title: "Thesis Writing Sharing|A Study of Women in Hou Hsiao-hsien's Films"
+title: "Academic Writing Practice|My Undergraduate Thesis"
 date: 2022-05-15
 author: Zhenting HE
 slug: second-post
@@ -10,6 +10,7 @@ categories:
 tags:
   - Academic Journey
 ---
+Original title: A Study of Women in Hou Hsiao-hsien's Films
 
 I recall the penultimate page of my recently concluded dissertation, wherein I wrote, "It was a novel experience to engage in academic writing, and I found it most agreeable." I would like to express my gratitude to my parents for their unwavering support and affection. I would like to express my gratitude to my teachers and friends for their companionship. I would like to express my gratitude to the instructors for providing me with a wealth of inspiration and ideas. I now turn to the subject of writing. I would like to express my gratitude to all those engaged in academic pursuits. To us, collectively. I would like to express my gratitude to the universe. The act of enforcing rules and cooperating with those that one does not agree with is a stifling and politically depressing process. My academic training illuminated a previously obscure area, akin to the sudden illumination of a dark room. I was fortunate to have a responsive and guiding mentor. It is unclear whether this was a means of evading reality or a genuine interest in academia. However, it is evident that my initial academic training has already had an impact on my career plans.
 

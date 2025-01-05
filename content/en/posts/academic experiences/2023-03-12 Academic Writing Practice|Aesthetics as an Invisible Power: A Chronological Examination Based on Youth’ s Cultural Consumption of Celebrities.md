@@ -1,5 +1,5 @@
 ---
-title: "Thesis Writing Sharing|Aesthetics as an Invisible Power: A Chronological Examination Based on Youth's Cultural Consumption of Celebrities"
+title: "Academic Writing Practice|Aesthetics as an Invisible Power"
 date: 2023-03-12
 author: Zhenting HE
 slug: second-post
@@ -10,6 +10,9 @@ categories:
 tags:
   -film
 ---
+
+Original title: Aesthetics as an Invisible Power: A Chronological Examination Based on Youth's Cultural Consumption of Celebrities
+
 Abstract
 As one of the most prevalent symbols in media culture, celebrity has an equally important influence on the aesthetic culture of society at large. Based on this, this study conducted in-depth interviews with 27 individuals from different generations, aiming to reveal the changes in the consumption of celebrity symbols by Chinese youth, and to explore the role of aesthetic power in this field. It is found that the changes in individuals’ aesthetic experiences not only reflect the ideologies and social disciplines of different eras, but also the process of consumers adjusting their aesthetics for greater exchange value. This paper asserts that the process of celebrity consumption is an intertwining of aesthetic change and fantasy overflow in reality, reflecting the complex aesthetic mechanisms and cultural dynamics in consumer society.
 
