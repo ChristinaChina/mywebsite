@@ -1,5 +1,5 @@
 ---
-title: 'English Posts'
+title: 'Recipes'
 date: ''
 ---
 
