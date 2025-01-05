@@ -3,5 +3,5 @@ title: 'English Posts'
 date: ''
 ---
 
-## Recipe
+## Recipes
 
