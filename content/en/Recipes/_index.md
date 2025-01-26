@@ -3,5 +3,5 @@ title: 'Recipes'
 date: ''
 ---
 
-## recipes
+## Recipes
 
