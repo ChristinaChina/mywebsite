@@ -1,14 +1,12 @@
 ---
 title: "Six Months of Missing New Zealand"
-date: 2024-08-02
+date: 2024-09-02
 author: Zhenting HE
-slug: road-not-taken
-draft: false
 toc: ture
 categories:
 - test
 tags:
-- Academic Journey
+- Travel
 ---
 I can already see that I'm going to miss the short half month I spent in New Zealand for the next six months. It all seems to have started back in February when I felt lost in life. I wanted to go into academia, but had almost no substantial work to show for it. So I decided to apply to the IAMCR and if that didn't work out I would look for an internship. Luckily, my application was successful, which gave me a huge boost for what came next. Looking back, even if it hadn't worked out, I would have kept going. I hope to have more time to visit New Zealand again in the future, perhaps next spring, summer or autumn! I'd love to share the details of my trip with you, but for now I'm keeping the details of hotels, restaurants and activities to myself. If you're interested, feel free to drop me a line and I'll share them individually.
 
@@ -64,4 +62,4 @@ On my last day, I relaxed and shopped for some final souvenirs. In the evening, 
 While I initially came to New Zealand alone, I found myself stepping into the role of organizer and communicator during the trip. In the beginning, managing the itinerary and coordinating everyone's schedules felt overwhelming, especially when things didn’t go as planned. At times, I doubted my ability to handle everything, but over time, I grew into the role. My sister, with whom I collaborated during the trip, said to me, "You’re tougher than you think. Don’t be anxious. Even though I know it’s difficult for someone your age, remember you’re incredible, and the rest will fall into place with time." 
 This moment of encouragement reminded me that while self-doubt is natural, surrounding myself with supportive and understanding people can help me grow and push through challenges. This journey was not just about exploring a beautiful country but also about discovering my strength and resilience.
 
-{{<figure src="/images/2024-08-02.jpg" title="Nine Randomly Selected Pictures of New Zealand Rest Time" width="360">}}
+{{<figure src="/images/2024-09-02.jpg" title="Nine Randomly Selected Pictures of New Zealand Rest Time" width="360">}}
