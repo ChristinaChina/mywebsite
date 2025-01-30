@@ -1,6 +1,6 @@
 ---
 title: "SPSS Learning Notes|Easy to Follow & Review Later!"
-date: 2023-11-01
+date: 2023-12-16
 author: Zhenting HE
 slug: second-post
 draft: false
