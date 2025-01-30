@@ -11,9 +11,9 @@ tags:
 ---
 While sorting out my memories, I found out that the Boston Museum of Fine Arts has a description of the paintings, so I'm going to put some records of the paintings on the website and post a link to them. If you are interested in this content, you can click <a href='https://collections.mfa.org/advancedsearch;jsessionid=7789F17F27257FC632ACCAEA86A506B0/' target="_blank">'here'</a > to go to the official website of the Museum of Fine Arts, Boston. This will also make it easier for me to recall later.
 
-{{<figure src="/images/Where Do We Come From? What Are We?.jpg" title="Where Do We Come From? What Are We? Where Are We Going?, Paul Gauguin, 1897-98" width="720">}}
+{{<figure src="/images/Where Do We Come From? What Are We?.jpg" title="Where Do We Come From? What Are We? Where Are We Going?, Paul Gauguin, 1897-98" width="360">}}
 
-{{<figure src="/images/Grotto by the Seaside in the Kingdom of Naples with Banditti, Sunset.jpg" title="Grotto by the Seaside in the Kingdom of Naples with Banditti, Sunset, Joseph Wright of Derby, 1778" width="720">}}
+{{<figure src="/images/Grotto by the Seaside in the Kingdom of Naples with Banditti, Sunset.jpg" title="Grotto by the Seaside in the Kingdom of Naples with Banditti, Sunset, Joseph Wright of Derby, 1778" width="360">}}
 
 {{<figure src="/images/Summer Night's Dream.jpg" title="Summer Night's Dream, Edvard Munch, 1893" width="360">}}
 
