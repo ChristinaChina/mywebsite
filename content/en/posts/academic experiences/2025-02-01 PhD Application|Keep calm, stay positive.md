@@ -20,6 +20,6 @@ Hopefully, this year brings good news and I can finally focus on doing some real
 
 Stay calm, stay positive!
 
-{{<figure src="/images/2025-02-01(1).jpg" title="This week's Yellow Rose. I love the bright colours, which remind me of the sun and hope." width="360">}}
+{{<figure src="/images/2025-02-01(1).jpg" title="This week's Yellow Rose. I love the bright colours, which remind me of the sun and hope.">}}
 
-{{<figure src="/images/22025-02-01(2).jpg" title="Four photos of me this week. Seems like I'm not in the same state haha." width="360">}}
+{{<figure src="/images/22025-02-01(2).jpg" title="Four photos of me this week. Seems like I'm not in the same state haha.">}}
