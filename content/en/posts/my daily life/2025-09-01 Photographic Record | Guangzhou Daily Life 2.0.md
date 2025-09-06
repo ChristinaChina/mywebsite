@@ -10,8 +10,7 @@ tags:
   - creations
 ---
 
-{{<figure src="/images/Guangzhou/2025-09-01,01.jpg" title="September 1, 2025, Girls in front of the convenience store on the first day of school
-" width="720">}}
+{{<figure src="/images/Guangzhou/2025-09-01,01.jpg" title="September 1, 2025, Girls in front of the convenience store on the first day of school" width="720">}}
 
 {{<figure src="/images/Guangzhou/2025-09-01,02.jpg" title="September 1, 2025, Two boys walking home for lunch, one ahead of the other" width="720">}}
 
