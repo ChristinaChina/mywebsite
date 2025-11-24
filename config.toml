@@ -104,6 +104,8 @@ posts = "/posts/:year/:month/:day/:slug/"
       en = "Site last updated on"
       cn = "最近一次更新于"
 
+      enableGitInfo = true
+
     [params.lang.sourceCode]
       en = "Content in"
       cn = "内容存于"
