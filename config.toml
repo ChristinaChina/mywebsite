@@ -16,21 +16,33 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "/"
     weight = 1
 [[menu.en]]
-    name = "About"
-    url = "/en/about/"
+    name = "Research"
+    url = "/en/Research/"
     weight = 2
 [[menu.en]]
-    name = "Posts"
-    url = "/en/posts/"
+    name = "Software"
+    url = "/en/software/"
     weight = 3
 [[menu.en]]
-    name = "Recipes"
-    url = "/en/Recipes/"
+    name = "Community"
+    url = "/en/community/"
     weight = 4
+[[menu.en]]
+    name = "CV"
+    url = "/en/about/"
+    weight = 5
+[[menu.en]]
+    name = "Life"
+    url = "/en/life/"
+    weight = 6
+[[menu.en]]
+    name = "Recipes"
+    url = "/en/recipes/"
+    weight = 7
 [[menu.en]]
     name = "中文"
     url = "/cn/posts/"
-    weight = 5
+    weight = 8
 [[menu.cn]]
     name = "关于"
     url = "/cn/about/"
