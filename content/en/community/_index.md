@@ -1,5 +1,6 @@
 ---
 title: "My Community"
+toc: ture
 ---
 
 Exploring the fascinating world of digital journalism and media culture has been a true privilege, especially in the company of passionate companions such as my supervisor, research group colleagues, senior students, and fellow undergraduates. During my time at the Digital Media Culture Laboratory and the Center for Covergent Global Communication, our shared curiosity transformed us from research partners into close friends
