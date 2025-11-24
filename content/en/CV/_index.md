@@ -1,5 +1,5 @@
 ---
-title: "Zhenting(Christina) HE's Curriculum Vitae"
+title: "Zhenting(Maggie) HE's Curriculum Vitae"
 type : list-single
 toc: ture
 ---
@@ -9,20 +9,21 @@ I am interested in cultural studies, particularly in the interplay between techn
 
 ## Personal Information
 ### Educational Background
-   1. M.A. in Journalism and Communication, China, 2022-2025
 
-   2. Political Science, Germany, 2024-2025
+   1. Sociocultural Anthropology, Germany, 2025-present
+   
+   2. M.A. in Journalism and Communication, China, 2022-2025
 
-   3. B.A. in Journalism, China, 2018-2022
+   3. Visiting Student, Social and Cultural Anthropology, 2024-2025
+
+   4. B.A. in Journalism, China, 2018-2022
 
 ### Contact Details
    Website: zhentinghe.com\
    Emails: heyzhenting@gmail.com\
-   Phone/WhatsApp: 49-015231658290\
-   Mobile: 49-015231658290
 
 ### Peer-reviewed Conference Presentations
-1. 1.He, Z. 2025. The Work Ethic of Chinese Digital Feminists: From the Neoliberalism Perspective. Paper will be Presented at the 75th Annual Conference of the International Communication Association(ICA), Colorado, USA.\
+1. 1.He, Z. 2025. The Work Ethic of Chinese Digital Feminists: From the Neoliberalism Perspective. Paper Presented at the 75th Annual Conference of the International Communication Association(ICA), Colorado, USA.\
 In this essay, I employ online ethnographic study and in-depth interviews with 35 Chinese digital feminists to illustrate how digital feminists in China respondto neoliberal conditions and how they sustain their activism despite a lack of unanimous support within their own groups. My analysis indicates that digital feminists in China have employed public interest activities as a cultural instrument tochallenge the advancement of global neoliberalism. Consequently, they have progressively investigated the formulation of a feminist cultural politics that is alignedwith the political and commercial contexts of China.
 
 2. He, Z. 2024. Aesthetics as an Invisible Power: A Chronological Examination Based on Youth’ s Cultural Consumption of Celebrities. Paper Presented at the 107th Association for Education in Journalism and Mass Communication(AEJMC), Philadelphia, America. \
@@ -34,9 +35,6 @@ This study explores the changes in the object, time, and space of digital mourni
 4. He, Z. 2024. Research on the Female Images in Hou Hsiao-hsien’ s Films. Paper Presented at the 2024 International Association for Media and Communication Research(IAMCR), Christchurch, New Zealand.\
 This paper employs textual analysis as the primary research method, examining the portrayal of women in the 19 films directed by Hou Hsiao-hsien and categorizing it into two distinct groups: women within the family and women in society. It then proceeds to interpret and refine these portrayals through the use of comparison and analogical analysis, as well as dialectical thinking to elucidate the differences and similarities in the representation of female images and the characterization under the mapping of female images.
 
-
-### Ongoing Project
-The ‘Empathy Machine’ from the Perspective of Platform Capitalism: An Examination of Disabilities on Douyin
 
 ## Academic Serivice
 1. Manuscript Reviewer, <a href='https://www.aejmc.org' target="_blank"> Association for Education in Journalism and Mass Communication (AEJMC)</a >, April - May, 2024

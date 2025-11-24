@@ -29,7 +29,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     weight = 4
 [[menu.en]]
     name = "CV"
-    url = "/en/about/"
+    url = "/en/CV/"
     weight = 5
 [[menu.en]]
     name = "Life"

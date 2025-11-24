@@ -1,75 +1,30 @@
 ---
-title: "Zhenting(Christina) HE's Curriculum Vitae"
+title: "My Community"
 type : list-single
 toc: ture
 ---
 
-## Research Interests
-I am interested in cultural studies, particularly in the interplay between technology and culture. Methodologically, I am primarily trained in qualitative research, employing semi-structured depth interview and analyzing empirical materials through thematic analysis informed by grounded theory. Other ongoing interests include the construction of technology and comparative-historical methods.
+Exploring the fascinating world of digital journalism and media culture has been a true privilege, especially in the company of passionate companions such as my supervisor, research group colleagues, senior students, and fellow undergraduates. During my time at the Digital Media Culture Laboratory and the Center for Covergent Global Communication, our shared curiosity transformed us from research partners into close friends
 
-## Personal Information
-### Educational Background
-   1. M.A. in Journalism and Communication, China, 2022-2025
+# Digital Media Culture Lab 
 
-   2. Political Science, Germany, 2024-2025
+{{<figure src="/images/Digital Media Culture Groups.jpg" title="The finest 603 and 611 in the world" width="600">}}
 
-   3. B.A. in Journalism, China, 2018-2022
+The Digital Media Culture Laboratory operates as a Guangdong Provincial Higher Education Innovation Team Project, led by the my advisor Professor Chang. This initiative seeks to investigate issues beyond the fog of media, with the objective of uncovering truth, authentic knowledge, and the fundamental principles of culture (Chinese: 透过媒介迷雾，探寻文化的真相、真知与真理).
 
-### Contact Details
-   Website: zhentinghe.com\
-   Emails: heyzhenting@gmail.com\
-   Phone/WhatsApp: 49-015231658290\
-   Mobile: 49-015231658290
+I have participated in the following research projects:
+   1. Tencent Commissioned Project: ‘Research on the Composition and Patterns of Corporate Media Discourse in the Digital Age’
+   November 2022–February 2023
+Supported research on media discourse frameworks and mainstream policy response mechanisms of major Chinese enterprises under academic supervision. Key responsibilities included mapping corporate media discourse channels, conducting a thematic analysis of 10 major corporate media discourses, conducting in-depth case studies of Meituan and Ping An Insurance, and examining the balance between universality and distinctiveness in the construction of corporate media discourse.
 
-### Peer-reviewed Conference Presentations
-1. 1.He, Z. 2025. The Work Ethic of Chinese Digital Feminists: From the Neoliberalism Perspective. Paper will be Presented at the 75th Annual Conference of the International Communication Association(ICA), Colorado, USA.\
-In this essay, I employ online ethnographic study and in-depth interviews with 35 Chinese digital feminists to illustrate how digital feminists in China respondto neoliberal conditions and how they sustain their activism despite a lack of unanimous support within their own groups. My analysis indicates that digital feminists in China have employed public interest activities as a cultural instrument tochallenge the advancement of global neoliberalism. Consequently, they have progressively investigated the formulation of a feminist cultural politics that is alignedwith the political and commercial contexts of China.
+   2. Research on Global Communication Strategies for Shenzhen's Urban Cultural Brand
+   March 2023-August 2023
+Contributed to a project commissioned by the Municipal Party Committee Publicity Department on Shenzhen's international communication, under academic supervision. Principal author for sections on communication actors, channels, and effectiveness evaluation. Responsibilities included categorising Shenzhen's international communication actors, compiling a directory of major international social media accounts, analysing engagement data (likes, shares, comments) from 2013 to 2023 across multiple dimensions such as username, follower count, post volume, viewership, platform affiliation, and source attribution, conducting user comment word frequency analysis, performing sentiment co-occurrence analysis, and analysing both communication content and user comment content.
 
-2. He, Z. 2024. Aesthetics as an Invisible Power: A Chronological Examination Based on Youth’ s Cultural Consumption of Celebrities. Paper Presented at the 107th Association for Education in Journalism and Mass Communication(AEJMC), Philadelphia, America. \
-As one of the most prevalent symbols in media culture, celebrity has an equally important influence on the aesthetic culture of society at large. Based on this, this study conducted in-depth interviews with 27 individuals from different generations, aiming to reveal the changes in the consumption of celebrity symbols by Chinese youth, and to explore the role of aesthetic power in this field. It is found that the changes in individuals’ aesthetic experiences not only reflect the ideologies and social disciplines of different eras, but also the process of consumers adjusting their aesthetics for greater exchange value. This paper asserts that the process of celebrity consumption is an intertwining of aesthetic change and fantasy overflow in reality, reflecting the complex aesthetic mechanisms and cultural dynamics in consumer society.
+   3. Narrative Framework of Chinese Discourse
+   September2023 – October 2023
+Supported the summarisation of key characteristics of Chinese discourse, including narrative structures, storytelling approaches, and cross-platform presentation, under tutor guidance. Served as lead author on the expressive characteristics of Chinese discourse, with a focus on reviewing existing research literature. The approach addressed methods of disseminating Chinese civilisation and representative narratives, thematic motifs, and their relation to cultural industries, and the adaptation of Chinese stories in global communication.
 
-3. He, Z. 2024. Relational Practices of Digital Mourning Through the Lens of Continuing Bonds. Paper Presented at the 107th Association for Education in Journalism and Mass Communication(AEJMC), Philadelphia, America. \
-This study explores the changes in the object, time, and space of digital mourning relative to traditional mourning, as well as the role of technology and its impact on socio-emotional connections. Through semi-structured in-depth interviews with 35 individuals who honored non-family members and friends on social media, the study found that the object of digital mourning extends to non-family members, that mourning is not strictly limited in time, and can be instantaneous or continuous; and that spatially it occurs in virtual space, breaking down physical spatial constraints. The spread of technology, the expansion of social networks, and the convenience of social media are the main drivers.
-
-4. He, Z. 2024. Research on the Female Images in Hou Hsiao-hsien’ s Films. Paper Presented at the 2024 International Association for Media and Communication Research(IAMCR), Christchurch, New Zealand.\
-This paper employs textual analysis as the primary research method, examining the portrayal of women in the 19 films directed by Hou Hsiao-hsien and categorizing it into two distinct groups: women within the family and women in society. It then proceeds to interpret and refine these portrayals through the use of comparison and analogical analysis, as well as dialectical thinking to elucidate the differences and similarities in the representation of female images and the characterization under the mapping of female images.
-
-
-### Ongoing Project
-The ‘Empathy Machine’ from the Perspective of Platform Capitalism: An Examination of Disabilities on Douyin
-
-## Academic Serivice
-1. Manuscript Reviewer, <a href='https://www.aejmc.org' target="_blank"> Association for Education in Journalism and Mass Communication (AEJMC)</a >, April - May, 2024
-2. Student Assistant to the Organiser, <a href='http://www.ccgc-szu.com/h-nd-86.html' target="_blank">Annual Conference on Digital Journalism in China</a >, May, 2024
-3. Assistant to the Organiser, <a href='https://www.tencentcloud.com/act/pro/2024gdes' target="_blank">Tencent Global Digital Ecosystem Summit</a >, September, 2024
-
-## Research Experiences
-### Digital Media Culture Lab, Shenzhen University 
-#### Student Research Assistant, Feburary,2023 - August, 2024
-1. Participated in four research projects focusing on media discourse and national narratives. My main work covered the entire research process, including literature review, data collection/interviews, empirical analysis, and final writing revisions.These projects gave me a broad understanding of communication dynamics, improved my knowledge of different research methods, and confirmed my decision to focus on qualitative research. In addition to my advisor Jiang CHANG, the project faculty includes Wensen HUANG (assistant
-professor at Shenzhen University) and Hao TIAN (Young Associate Research Fellow at Fudan University). 
-2. Managed the influential academic public platform “Media Culture Review” launched by my advisor, and as of August 2024, the account has 27,674 subscribers in China. Through this training, I have developed a better
-academic taste for the research directions of digital media culture and digital journalism, opened up international perspectives and learned to keep a close eye on international cutting-edge developments and seminars. 
-3. Assisted my advisor in the revision of academic papers and research proposals, ensuring clarity, coherence, and adherence to academic publishing standards, which helps me a lot about English academic writing skills.
-
-
-## Awards and Fellowships
-1. 2023-2024 National Scholarship (Top 0.2% ), <a href='https://hudong.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_yjs/201508/t20150810_199224.html' target="_blank">Ministry of Education of the People’ s Republic of China</a >
-2. 2022-2023 Top-level Academic Scholarship , Shenzhen University
-3. 2018-2022 Outstanding Students Scholarship (Top 1%, fourth) , Jiangxi Normal University
-4. 2022 Honours Degree & Outstanding Graduates, Jiangxi Normal University
-5. 2021 Honorable Mention of Art Design, <a href='https://dasai.lanqiao.cn/notices/1596/' target="_blank">Ministry of Industry and Information Technology of Chinathe People’ s Republic of China</a >
-6. 2021 Outstanding Volunteer(Top 0.7%), Jiangxi Normal University
-7. 2021 National Second Prize for Videography, Academy Award of Advertising Arts Festival
-8. 2021 National Second Prize for Visualization Design, <a href='https://jsjds.blcu.edu.cn/' target="_blank">Chinese Collegiate Computing Competition
-9. 2020 Best in Arts and Culture News Reporting, <a href='https://campus.chinadailyasia.com/en/home/13' target="_blank">Campus Newspaper Award, China Daily Asia</a >
-10. 2019 National Second Prize, National English Competition for College Students 
-
-## Skills
-### Professional Skills
-1. Data analysis: NVIVO (Proficient), MAXQDA (Proficient), SPSS (Intermediate), STATA (Intermediate)
-2. Languages: Mandarin(native), Hakka (Native), English (Proficient), Korean (Intermediate), German (Elementary)
-
-### Additional Skills & Interests
-1. Applications: Adobe Photoshop, Adobe Premiere, Final Cut Pro, Davinci Resolve
-2. Specialties & hobbies: Guzheng (Level 8 Certificate), Trap, Swimming, Detective (thriller-mystery) movies
+   4. Annual Review of Global Communication Studies Research 2023
+   November 2023–January 2024
+Participated in the National Social Science Fund Major Project: ‘Research on Digital Journalism Theory, Methodology and Practice’. Contributed to screening and drafting papers for the annual review project in journalism and communication studies under academic supervision. Served as principal author for ten thematic sections, including Social Media and Political Campaigns, Political Influencers on Social Media, Social Media and Digital Activism, Media Trust During the Pandemic, Innovative Applications of Intelligent Technologies, Technology Policy and the Digital Divide, Digitalisation and Women's Development, Digital Communities and Their Governance, The Spread and Countering of Misinformation, and Platform Values and Governance.
