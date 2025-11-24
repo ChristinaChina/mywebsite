@@ -20,7 +20,7 @@ I am interested in cultural studies, particularly in the interplay between techn
 
 ### Contact Details
    Website: zhentinghe.com\
-   Emails: heyzhenting@gmail.com\
+   Email: heyzhenting@gmail.com
 
 ### Peer-reviewed Conference Presentations
 1. 1.He, Z. 2025. The Work Ethic of Chinese Digital Feminists: From the Neoliberalism Perspective. Paper Presented at the 75th Annual Conference of the International Communication Association(ICA), Colorado, USA.\
