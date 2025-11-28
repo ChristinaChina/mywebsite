@@ -1,6 +1,6 @@
 ---
 title: "How is 'Science Fiction' and 'Real Perception' Possible in Science Fiction Documentaries?"
-date: 2020-10-18
+date: 2025-10-18
 author: Zhenting HE
 slug: second-post
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "My Community"
+type : list-single
 toc: ture
 ---
 
