@@ -1,5 +1,5 @@
 ---
-title: "Academic Writing Practice|My Undergraduate Thesis"
+title: "Writing Practice|My Undergraduate Thesis"
 date: 2022-05-15
 author: Zhenting HE
 slug: second-post

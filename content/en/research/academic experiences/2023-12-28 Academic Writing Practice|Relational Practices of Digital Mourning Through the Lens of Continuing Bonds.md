@@ -1,6 +1,6 @@
 ---
-title: "Academic Writing Practice|Relational Practices of Digital Mourning"
-date: 2020-10-18
+title: "Writing Practice|Relational Practices of Digital Mourning"
+date: 2023-12-28
 author: Zhenting HE
 slug: second-post
 draft: false

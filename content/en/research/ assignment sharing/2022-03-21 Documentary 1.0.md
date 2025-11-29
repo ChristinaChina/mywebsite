@@ -1,6 +1,6 @@
 ---
-title: "Assignment Sharing|Documentary on Non-Genetic Heritage 'The Entertainer or Craftsman'"
-date: 2021-01-21T15:20:57-18:00
+title: "Documentary|Non-Genetic Heritage 'The Entertainer or Craftsman'"
+date: 2022-03-21T15:20:57-18:00
 author: Zhenting HE
 slug: second-post
 draft: false

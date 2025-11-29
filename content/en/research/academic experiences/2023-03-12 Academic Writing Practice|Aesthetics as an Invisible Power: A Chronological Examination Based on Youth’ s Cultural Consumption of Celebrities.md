@@ -1,5 +1,5 @@
 ---
-title: "Academic Writing Practice|Aesthetics as an Invisible Power"
+title: "Writing Practice|Aesthetics as an Invisible Power"
 date: 2023-03-12
 author: Zhenting HE
 slug: second-post

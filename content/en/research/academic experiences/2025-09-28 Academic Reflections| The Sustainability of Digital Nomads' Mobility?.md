@@ -1,6 +1,6 @@
 ---
-title: "Academic Writing Practice|My Undergraduate Thesis"
-date: 2022-05-15
+title: "Academic Reflections|The Sustainability of Digital Nomads' Mobility?"
+date: 2022-09-28
 author: Zhenting HE
 slug: second-post
 draft: false

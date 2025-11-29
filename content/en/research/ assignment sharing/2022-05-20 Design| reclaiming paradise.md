@@ -1,6 +1,6 @@
 ---
-title: "Reclaiming Paradise: Spotlight on Underage Sexual Assault"
-date: 2020-05-20T15:20:57-18:00
+title: "Visual Design|Reclaiming Paradise: Spotlight on Underage Sexual Assault"
+date: 2022-05-20T15:20:57-18:00
 author: Zhenting HE
 slug: second-post
 draft: false
