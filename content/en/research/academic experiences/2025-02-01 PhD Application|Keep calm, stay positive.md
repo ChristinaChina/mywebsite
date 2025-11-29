@@ -1,6 +1,6 @@
 ---
-title: "Mindset during PhD Application|Keep Calm, Stay Positive!"
-date: 2025-02-01
+title: "Mindset during Application|Keep Calm, Stay Positive!"
+date: 2025-03-01
 author: Zhenting HE
 slug: second-post
 draft: false
