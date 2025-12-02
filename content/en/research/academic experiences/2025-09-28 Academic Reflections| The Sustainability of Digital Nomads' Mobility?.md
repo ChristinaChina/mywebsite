@@ -1,6 +1,6 @@
 ---
 title: "Academic Reflections|The Sustainability of Digital Nomads' Mobility?"
-date: 2022-09-28
+date: 2023-10-27
 author: Zhenting HE
 slug: second-post
 draft: false
