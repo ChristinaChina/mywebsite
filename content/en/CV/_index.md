@@ -25,7 +25,7 @@ I am interested in cultural studies, particularly in the interplay between techn
    - Website: zhentinghe.com
    - Email: heyzhenting@gmail.com
 
-### Peer-reviewed Conference Presentations
+## Peer-reviewed Conference Presentations
 - He, Z. 2025. The Work Ethic of Chinese Digital Feminists: From the Neoliberalism Perspective. Paper Presented at the 75th Annual Conference of the International Communication Association(ICA), Colorado, USA.\
 In this essay, I employ online ethnographic study and in-depth interviews with 35 Chinese digital feminists to illustrate how digital feminists in China respondto neoliberal conditions and how they sustain their activism despite a lack of unanimous support within their own groups. My analysis indicates that digital feminists in China have employed public interest activities as a cultural instrument tochallenge the advancement of global neoliberalism. Consequently, they have progressively investigated the formulation of a feminist cultural politics that is alignedwith the political and commercial contexts of China.
 
@@ -78,22 +78,15 @@ Manuscript Reviewer, Association for Education in Journalism and Mass Communicat
 - Southern Finance Omnimedia Corp (SFC), July, 2025 - November, 2025
    - Intern Financial Journalist & Producer    
          - Planned investigative angles and identified underreported story leads, consistently pitching original ideas with strong public-interest value.
-         
          - Produced daily news stories, field reports, and in-depth investigative pieces with tightly structured logic and precise, compelling language.
-         
          - Conducted on-camera interviews and field investigations with a calm, natural presence and clear, authoritative delivery.
-         
          - Skillfully used video-editing tools to structure evidence, add subtitles, and craft coherent post-production narratives.
-         
          - Reported across financial, social, and public-accountability topics, demonstrating the ability to adjust investigative approaches and narrative styles to different subject matters.
 - Shenzhen Global Investment Promotion Conference Promotional Video, June, 2025 - present  
   - Executive Producer      
          - Led the end-to-end production process, coordinating script development, visual planning, on-site filming, and post-production.
-         
          - Managed cross-functional collaboration between creative teams, technical staff, and external partners to ensure timely and high-quality delivery.
-         
          - Oversaw budgeting, scheduling, and resource allocation within a fast-paced production timeline.
-         
          - Ensured the final video aligned with the event’s communication objectives and institutional branding standards.
 
 ## Skills
