@@ -48,18 +48,15 @@ Manuscript Reviewer, Association for Education in Journalism and Mass Communicat
 - Assistant to the Organiser, <a href='https://www.tencentcloud.com/act/pro/2024gdes' target="_blank">Tencent Global Digital Ecosystem Summit</a >, September, 2024
 
 ## Research Experiences
-- Digital Media Culture Lab, Shenzhen University 
-   - Student Research Assistant, Feburary,2023 - August, 2024
-         - Participated in four research projects focusing on media discourse and national narratives. My main work covered the entire research process, including literature review, data collection/interviews, empirical analysis, and final writing revisions.These projects gave me a broad understanding of communication dynamics, improved my knowledge of different research methods, and confirmed my decision to focus on qualitative research. In addition to my advisor Jiang CHANG, the project faculty includes Wensen HUANG (assistant professor at Shenzhen University) and Hao TIAN (Young Associate Research Fellow at Fudan University). 
-
-         - Managed the influential academic public platform “Media Culture Review” launched by my advisor, and as of August 2024, the account has 27,674 subscribers in China. Through this training, I have developed a better cademic taste for the research directions of digital media culture and digital journalism, opened up international perspectives and learned to keep a close eye on international cutting-edge developments and seminars. 
-         
-         - Assisted my advisor in the revision of academic papers and research proposals, ensuring clarity, coherence, and adherence to academic publishing standards, which helps me a lot about English academic writing skills.
+- Digital Media Culture Lab, Shenzhen University, Feburary,2023 - August, 2024
+   - Student Research Assistant
+      - Participated in four research projects focusing on media discourse and national narratives. My main work covered the entire research process, including literature review, data collection/interviews, empirical analysis, and final writing revisions.These projects gave me a broad understanding of communication dynamics, improved my knowledge of different research methods, and confirmed my decision to focus on qualitative research. In addition to my advisor Jiang CHANG, the project faculty includes Naipeng CHAO (distinguished professor) and Wensen HUANG (assistant professor at Shenzhen University). 
+      - Managed the influential academic public platform “Media Culture Review” launched by my advisor, and as of August 2024, the account has 27,674 subscribers in China. Through this training, I have developed a better cademic taste for the research directions of digital media culture and digital journalism, opened up international perspectives and learned to keep a close eye on international cutting-edge developments and seminars. 
+      - Assisted my advisor in the revision of academic papers and research proposals, ensuring clarity, coherence, and adherence to academic publishing standards, which helps me a lot about English academic writing skills.
 
 - National Survey Reseach Center, Renmin University of China, April - September, 2021
    - Remote telephone interviewer
       - Participated in interviews for five of China’s larger research projects, including topics such as the Winter Olympics, carbon neutrality, and student employment.Through these projects, I learned the importance of scheduling interviews and being sincere, polite, and confident. This experience helped me build a strong foundation for conducting interviews in my qualitative research.
-      
       - Learned and mastered STATA and SPSS data analysis software to analyze the results of some of the questionnaires, enriching my better knowledge of statistics and data analysis ability, so that I can be more smooth when reading academic articles on related methods.
 
 ## Awards and Fellowships
@@ -77,16 +74,16 @@ Manuscript Reviewer, Association for Education in Journalism and Mass Communicat
 ## Interships 
 - Southern Finance Omnimedia Corp (SFC), July, 2025 - November, 2025
    - Intern Financial Journalist & Producer    
-         - Planned investigative angles and identified underreported story leads, consistently pitching original ideas with strong public-interest value.
-         - Produced daily news stories, field reports, and in-depth investigative pieces with tightly structured logic and precise, compelling language.
-         - Conducted on-camera interviews and field investigations with a calm, natural presence and clear, authoritative delivery.
-         - Skillfully used video-editing tools to structure evidence, add subtitles, and craft coherent post-production narratives.
+         - Planned investigative angles and identified underreported story leads, consistently pitching original ideas with strong public-interest value.\
+         - Produced daily news stories, field reports, and in-depth investigative pieces with tightly structured logic and precise, compelling language.\
+         - Conducted on-camera interviews and field investigations with a calm, natural presence and clear, authoritative delivery.\
+         - Skillfully used video-editing tools to structure evidence, add subtitles, and craft coherent post-production narratives.\
          - Reported across financial, social, and public-accountability topics, demonstrating the ability to adjust investigative approaches and narrative styles to different subject matters.
 - Shenzhen Global Investment Promotion Conference Promotional Video, June, 2025 - present  
   - Executive Producer      
-         - Led the end-to-end production process, coordinating script development, visual planning, on-site filming, and post-production.
-         - Managed cross-functional collaboration between creative teams, technical staff, and external partners to ensure timely and high-quality delivery.
-         - Oversaw budgeting, scheduling, and resource allocation within a fast-paced production timeline.
+         - Led the end-to-end production process, coordinating script development, visual planning, on-site filming, and post-production.\
+         - Managed cross-functional collaboration between creative teams, technical staff, and external partners to ensure timely and high-quality delivery.\
+         - Oversaw budgeting, scheduling, and resource allocation within a fast-paced production timeline.\
          - Ensured the final video aligned with the event’s communication objectives and institutional branding standards.
 
 ## Skills
