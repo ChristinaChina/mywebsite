@@ -8,7 +8,9 @@ draft: false
 ---
 
 ## Research Interests
-I am interested in cultural studies, particularly in the interplay between technology and culture. Methodologically, I am primarily trained in qualitative research, employing semi-structured depth interview and analyzing empirical materials through thematic analysis informed by grounded theory. Other ongoing interests include the construction of technology and comparative-historical methods.
+I am interested in cultural studies, particularly in the interplay between technology and culture. Methodologically, I am primarily trained in qualitative research, employing semi-structured depth interview and analyzing empirical materials through thematic analysis informed by grounded theory. 
+
+Ongoing ongoing interests include the construction of technology, sociocultural anthropology, linguistic anthropology and comparative-historical methods.
 
 ## Personal Information
 - Educational Background
@@ -39,16 +41,16 @@ This study explores the changes in the object, time, and space of digital mourni
 This paper employs textual analysis as the primary research method, examining the portrayal of women in the 19 films directed by Hou Hsiao-hsien and categorizing it into two distinct groups: women within the family and women in society. It then proceeds to interpret and refine these portrayals through the use of comparison and analogical analysis, as well as dialectical thinking to elucidate the differences and similarities in the representation of female images and the characterization under the mapping of female images.
 
 ## Academic Serivice
-- Manuscript Reviewer, International Communication Association (ICA),November-December, 2025
-- Manuscript Reviewer, Association for Education in Journalism and Mass Communication (AEJMC)，April-May, 2025
-- Manuscript Reviewer, National Communication Associatio(NCA)，March-May, 2025
-Manuscript Reviewer, Association for Education in Journalism and Mass Communication (AEJMC)        April - May, 2024
+- Manuscript Reviewer,  <a href='https://www.icahdq.org' target="_blank">CInternational Communication Association (ICA)</a >,November - December, 2025
+- Manuscript Reviewer, <a href='https://www.aejmc.org' target="_blank">Association for Education in Journalism and Mass Communication (AEJMC)</a >，April - May, 2025
+- Manuscript Reviewer, <a href='https://www.natcom.org' target="_blank">National Communication Associatio(NCA)</a >，March-May, 2025
+Manuscript Reviewer, Association for Education in Journalism and Mass Communication (AEJMC),April-May, 2024
 - Manuscript Reviewer, <a href='https://www.aejmc.org' target="_blank"> Association for Education in Journalism and Mass Communication (AEJMC)</a >, April - May, 2024
 - Student Assistant to the Organiser, <a href='http://www.ccgc-szu.com/h-nd-86.html' target="_blank">Annual Conference on Digital Journalism in China</a >, May, 2024
 - Assistant to the Organiser, <a href='https://www.tencentcloud.com/act/pro/2024gdes' target="_blank">Tencent Global Digital Ecosystem Summit</a >, September, 2024
 
 ## Research Experiences
-- Digital Media Culture Lab, Shenzhen University, Feburary,2023 - August, 2024
+- Digital Media Culture Lab & <a href='http://www.ccgc-szu.com' target="_blank">Center for Convergent Global Communication</a >, Shenzhen University, Feburary, 2023 - August, 2024
    - Student Research Assistant
       - Participated in four research projects focusing on media discourse and national narratives. My main work covered the entire research process, including literature review, data collection/interviews, empirical analysis, and final writing revisions.These projects gave me a broad understanding of communication dynamics, improved my knowledge of different research methods, and confirmed my decision to focus on qualitative research. In addition to my advisor Jiang CHANG, the project faculty includes Naipeng CHAO (distinguished professor) and Wensen HUANG (assistant professor at Shenzhen University). 
       - Managed the influential academic public platform “Media Culture Review” launched by my advisor, and as of August 2024, the account has 27,674 subscribers in China. Through this training, I have developed a better cademic taste for the research directions of digital media culture and digital journalism, opened up international perspectives and learned to keep a close eye on international cutting-edge developments and seminars. 
@@ -62,7 +64,7 @@ Manuscript Reviewer, Association for Education in Journalism and Mass Communicat
 ## Awards and Fellowships
 - 2023-2024 National Scholarship (Top 0.2% ), <a href='https://hudong.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_yjs/201508/t20150810_199224.html' target="_blank">Ministry of Education of the People’ s Republic of China</a >
 - 2022-2023 Top-level Academic Scholarship , Shenzhen University
-- 2018-2022 Outstanding Students Scholarship (Top 1%, fourth) , Jiangxi Normal University
+- 2018-2022 Outstanding Students Scholarship (Top 1%, fourth), Jiangxi Normal University
 - 2022 Honours Degree & Outstanding Graduates, Jiangxi Normal University
 - 2021 Honorable Mention of Art Design, <a href='https://dasai.lanqiao.cn/notices/1596/' target="_blank">Ministry of Industry and Information Technology of Chinathe People’ s Republic of China</a >
 - 2021 Outstanding Volunteer(Top 0.7%), Jiangxi Normal University

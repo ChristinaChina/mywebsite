@@ -2,6 +2,9 @@
 title: "My Community"
 type : list-single
 toc: ture
+date: 2025-06-25
+slug: second-post
+draft: false
 ---
 
 Exploring the fascinating world of digital journalism and media culture has been a true privilege, especially in the company of passionate companions such as my supervisor, research group colleagues, senior students, and fellow undergraduates. During my time at the Digital Media Culture Laboratory and the Center for Covergent Global Communication, our shared curiosity transformed us from research partners into close friends
