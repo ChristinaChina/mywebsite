@@ -1,5 +1,5 @@
 ---
-title: "可辰简历"
+title: "可辰"
 type : list-single
 ---
 
@@ -9,4 +9,6 @@ type : list-single
 
 个人网站：www.zhentinghe.com
 
-个人简介：拒绝沉没的人。
+喜欢的生活方式：Pessimism of the intellect, optimism of the will.
+
+喜欢的菜系：粤菜，不太辣的菜。
