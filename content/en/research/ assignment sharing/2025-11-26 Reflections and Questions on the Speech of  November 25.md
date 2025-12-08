@@ -7,7 +7,7 @@ draft: false
 categories:
   - test
 tags:
-  - creations
+  - Academic Journey
 ---
 
 During the academic lecture, four research methods were introduced: classic ethnography, dialogical and biographical approaches, cultural semiotics, and neo-/post-Marxist approaches.
