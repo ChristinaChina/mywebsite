@@ -15,13 +15,7 @@ Ongoing ongoing interests include the construction of technology, sociocultural 
 ## Personal Information
 - Educational Background
 
-   - Sociocultural Anthropology, Germany, 2025-present
-   
-   - M.A. in Journalism and Communication, China, 2022-2025
-
-   - Visiting Student, Social and Cultural Anthropology, 2024-2025
-
-   - B.A. in Journalism, China, 2018-2022
+   - I have received interdisciplinary training across journalism, communication studies, and cultural anthropology during my undergraduate and master’s studies. My academic education spans both China and Germany, combining a strong foundation in news production, media theory, and communication research with anthropological perspectives on culture, society, and everyday practices. This cross-disciplinary and cross-regional educational background has enabled me to approach media and cultural phenomena with both empirical sensitivity and critical, comparative insight.
 
 - Contact Details
    - Website: zhentinghe.com
@@ -62,16 +56,16 @@ Manuscript Reviewer, Association for Education in Journalism and Mass Communicat
       - Learned and mastered STATA and SPSS data analysis software to analyze the results of some of the questionnaires, enriching my better knowledge of statistics and data analysis ability, so that I can be more smooth when reading academic articles on related methods.
 
 ## Awards and Fellowships
-- 2023-2024 National Scholarship (Top 0.2% ), <a href='https://hudong.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_yjs/201508/t20150810_199224.html' target="_blank">Ministry of Education of the People’ s Republic of China</a >
-- 2022-2023 Top-level Academic Scholarship , Shenzhen University
-- 2018-2022 Outstanding Students Scholarship (Top 1%, fourth), Jiangxi Normal University
-- 2022 Honours Degree & Outstanding Graduates, Jiangxi Normal University
-- 2021 Honorable Mention of Art Design, <a href='https://dasai.lanqiao.cn/notices/1596/' target="_blank">Ministry of Industry and Information Technology of Chinathe People’ s Republic of China</a >
-- 2021 Outstanding Volunteer(Top 0.7%), Jiangxi Normal University
-- 2021 National Second Prize for Videography, Academy Award of Advertising Arts Festival
-- 2021 National Second Prize for Visualization Design, <a href='https://jsjds.blcu.edu.cn/' target="_blank">Chinese Collegiate Computing Competition
-- 2020 Best in Arts and Culture News Reporting, <a href='https://campus.chinadailyasia.com/en/home/13' target="_blank">Campus Newspaper Award, China Daily Asia</a >
-- 2019 National Second Prize, National English Competition for College Students 
+- National Scholarship (Top 0.2% ), <a href='https://hudong.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_yjs/201508/t20150810_199224.html' target="_blank">Ministry of Education of the People’ s Republic of China</a >
+- Top-level Academic Scholarship 
+- Outstanding Students Scholarship (Top 1%, fourth)
+- Honours Degree & Outstanding Graduates
+- Honorable Mention of Art Design, <a href='https://dasai.lanqiao.cn/notices/1596/' target="_blank">Ministry of Industry and Information Technology of Chinathe People’ s Republic of China</a >
+- Outstanding Volunteer(Top 0.7%), Jiangxi Normal University
+- National Second Prize for Videography, Academy Award of Advertising Arts Festival
+- National Second Prize for Visualization Design, <a href='https://jsjds.blcu.edu.cn/' target="_blank">Chinese Collegiate Computing Competition
+- Best in Arts and Culture News Reporting, <a href='https://campus.chinadailyasia.com/en/home/13' target="_blank">Campus Newspaper Award, China Daily Asia</a >
+- National Second Prize, National English Competition for College Students 
 
 ## Interships 
 - Southern Finance Omnimedia Corp (SFC), July, 2025 - November, 2025
@@ -91,8 +85,8 @@ Manuscript Reviewer, Association for Education in Journalism and Mass Communicat
 ## Skills
 - Professional Skills
    - Data analysis: NVIVO (Proficient), MAXQDA (Proficient), SPSS (Intermediate), STATA (Intermediate)
-   - Languages: Mandarin(native), Hakka (Native), English (Proficient), Korean (Intermediate), German (Elementary)
+   - Languages: Mandarin, Cantonese, Hakka(native), English (Proficient), Korean (Intermediate), German (Elementary)
 
 ## Additional Interests
 - Applications: Adobe Photoshop, Adobe Premiere, Final Cut Pro, Davinci Resolve
-- Specialties & hobbies: Guzheng (Level 8 Certificate), Trap, Swimming, Detective (thriller-mystery) movies
+- Specialties & hobbies: Guzheng,  Swimming, Detective (thriller-mystery) movies

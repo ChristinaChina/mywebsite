@@ -4,10 +4,10 @@ title: Home
 
 {{<figure src="/images/homepage.jpg" title="Welcome to my homepage! My name is Zhenting HE." width="360">}}
 
-I am currently in the first semester of my second master’s degree, studying Sociocultural Anthropology at <a href='https://www.uni-heidelberg.de/en' target='blank'> Heidelberg University </a >,with a minor in Philosophy, and I hold a master’s degree in Media and Communication, advised by <a href='https://cmc.szu.edu.cn/info/1067/1069.htm' target="_blank"> Jiang CHANG</a >. One line I’ve always held close comes from Antonio Gramsci: “pessimism of the intellect, optimism of the will.”
+One line I’ve long held close comes from Antonio Gramsci: “pessimism of the intellect, optimism of the will.”
 
-For academic experiences, please refer to the <a href='https://www.zhentinghe.com/en/research/' target="_blank">'Research'</a > tab. To view personal posts that reflect my personality, please check the <a href='https://www.zhentinghe.com/en/life/' target="_blank">'Life'</a > tab.
+ I am interested in how media technologies shape everyday life and human relationships, with particular attention to gendered experiences. My work focuses on media, culture, and lived experience, especially in relation to digital media, visual culture, memory, and care in contemporary society. I draw on perspectives from media studies and cultural anthropology, with a focus on China and transnational contexts.
 
-For more details about my background, please feel free to check out my <a href='/files/CV-Zhenting HE.pdf'  target="_blank"> CV </a >.
+For more details about my background, please feel free to check out my <a href='/files/CV-Zhenting HE.pdf'  target="_blank"> CV </a >. In terms of my academic experience, please refer to the <a href='https://www.zhentinghe.com/en/research/' target="_blank">'Research'</a > tab. To view personal posts that reflect my personality, please check the <a href='https://www.zhentinghe.com/en/life/' target="_blank">'Life'</a > tab.
 
-In my free time, I enjoy hiking, watching animation and detective movies with my family.
+I see academic work as an integral part of my life, so beyond reading and writing, I enjoy observing how society works. I also value time on my own, enjoying visits to museums, street photography, animation, hiking, and detective films, while appreciating time shared with my family.
