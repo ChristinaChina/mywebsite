@@ -2,13 +2,14 @@
 title: "Writing Practice|Aesthetics as an Invisible Power"
 date: 2023-03-12
 author: Zhenting HE
+type : list-single
 slug: second-post
 draft: false
 toc: ture
 categories:
   - test
 tags:
-  -film
+  -Writing Sample
 ---
 
 Original title: Aesthetics as an Invisible Power: A Chronological Examination Based on Youth's Cultural Consumption of Celebrities

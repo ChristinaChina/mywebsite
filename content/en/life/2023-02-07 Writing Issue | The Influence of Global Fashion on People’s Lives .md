@@ -1,5 +1,5 @@
 ---
-title: "Writing Practice | The Influence of Global Fashion on People’s Lives "
+title: "Writing Issue  | The Influence of Global Fashion on People’s Lives "
 date: 2023-02-07
 author: Zhenting HE
 slug: second-post

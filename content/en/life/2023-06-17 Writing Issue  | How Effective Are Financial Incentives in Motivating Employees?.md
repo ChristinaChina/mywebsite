@@ -1,5 +1,5 @@
 ---
-title: "Writing Practice | How Effective Are Financial Incentives in Motivating Employees? "
+title: "Writing Issue | How Effective Are Financial Incentives in Motivating Employees? "
 date: 2023-06-17
 author: Zhenting HE
 slug: second-post

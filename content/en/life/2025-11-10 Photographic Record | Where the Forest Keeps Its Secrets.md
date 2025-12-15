@@ -15,6 +15,10 @@ I took a few pictures during the winter, capturing moments of quiet life. It's a
 
 *Attended the lecture in full and asked questions to the professor afterward.*
 
+<figure src="/images/Heidelberg/mind of lecture.jpg" title="Attended the lecture in full and asked questions to the professor afterward" width="720">
+
+
+
 ![Exterior of the Mist-Shrouded Castle](/images/Heidelberg/Exterior of the Mist-Shrouded Castle.jpg)
 *I hiked up to the castle and found the path shrouded in fog.*
 

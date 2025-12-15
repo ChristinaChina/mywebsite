@@ -2,13 +2,14 @@
 title: "Writing Practice|My Undergraduate Thesis"
 date: 2022-05-15
 author: Zhenting HE
+type : list-single
 slug: second-post
 draft: false
 toc: ture
 categories:
   - test
 tags:
-  - Academic Journey
+  - Writing Sample
 ---
 Original title: A Study of Women in Hou Hsiao-hsien's Films
 

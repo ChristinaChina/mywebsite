@@ -2,13 +2,14 @@
 title: "Writing Practice|Relational Practices of Digital Mourning"
 date: 2023-12-28
 author: Zhenting HE
+type : list-single
 slug: second-post
 draft: false
 toc: ture
 categories:
   - test
 tags:
-  -film
+  -Writing Sample
 ---
 Original title: Relational Practices of Digital Mourning Through the Lens of Continuing Bonds
 
