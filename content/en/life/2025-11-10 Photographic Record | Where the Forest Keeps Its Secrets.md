@@ -12,7 +12,7 @@ tags:
 I took a few pictures during the winter, capturing moments of quiet life. It's a lovely way to document my growth and the traces of my existence. Some of my photos are taken during everyday life, while others are captured during hikes or travels.
 
 
-{{<figure src="/images/Heidelberg/mind of lecture.jpg" title="Figure 1: Attended the lecture in full and asked questions to the professor afterward." width="360">}}
+{{<figure src="/images/Heidelberg/mind of lecture.jpg" title="Figure 1: Attended the lecture in full and asked questions to the professor afterward.">}}
 
 {{<figure src="/images/Heidelberg/Exterior of the Mist-Shrouded Castle.jpg" title="Figure 2: I hiked up to the castle and found the path shrouded in fog." width="720">}}
 
