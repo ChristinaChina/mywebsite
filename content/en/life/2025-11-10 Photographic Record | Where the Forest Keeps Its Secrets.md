@@ -15,7 +15,7 @@ I took a few pictures during the winter, capturing moments of quiet life. It's a
 
 *Attended the lecture in full and asked questions to the professor afterward.*
 
-<figure src="/images/Heidelberg/mind of lecture.jpg" title="Attended the lecture in full and asked questions to the professor afterward" width="720">
+{{<figure src="/images/Heidelberg/mind of lecture.jpg" title="Attended the lecture in full and asked questions to the professor afterward" width="720">}}
 
 
 
