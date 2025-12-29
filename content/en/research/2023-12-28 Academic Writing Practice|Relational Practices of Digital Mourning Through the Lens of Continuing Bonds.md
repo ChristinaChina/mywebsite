@@ -103,53 +103,100 @@ Moreover, this study examines the dynamic evolution of mourning practices and th
 
 # References
 Albert, D. Z. (2003). Time and chance. Harvard University Press.
+
 Bauman, Z. (2013). Liquid modernity. John Wiley & Sons.
+
 Beaunoyer, E., & Guitton, M. J. (2021). Cyberthanathology: Death and beyond in the digital age. Computers in Human Behavior, vol. 122, 106849.
+
 Bian, Donglei & Zhang, Xiying. (2006). The advent of media time: A study of the origin, formation and characteristics of time concepts shaped by communication media. Journalism and Communication Research（Chinese Journal） , vol. 01, pp. 32-44+95.
+
 Bingaman, K. A. (2020). Pastoral and Spiritual Care in a Digital Age: The Future is Now. Lexington Books.
 Braun, V., & Clarke, V. (2006). Using Thematic Analysis in Psychology. Qualitative Research in Psychology, vol. 3, no. 2, pp. 77-101.
+
 Brubaker, J. R., & Hayes, G. R. (2011, March). “We Will Never Forget You [Online]” an Empirical Investigation of Post-Mortem Myspace Comments. In Proceedings of the ACM 2011 Conference on Computer Supported Cooperative Work , pp. 123-132.
+
 Brubaker, J. R., Hayes, G. R., & Dourish, P. (2013). Beyond the Grave: Facebook as a Site for the Expansion of Death and Mourning. The Information Society, vol. 29, no. 3, pp. 152-163.
+
 Brubaker, J. R., Hayes, G. R., & Mazmanian, M. (2019). Orienting to networked grief: Situated perspectives of communal mourning on Facebook. Proceedings of the ACM on Human-Computer Interaction, vol. 3(CSCW), pp. 1-19.
+
 Carey, J. W. (1967). Harold Adams Innis and Marshall McLuhan. The Antioch Review, vol. 27, no. 1, pp. 5-39.
+
 Carroll, B., & Landry, K. (2010). Logging on and Letting Out: Using Online Social Networks to Grieve and to Mourn. Bulletin of Science, Technology & Society, vol. 30, no. 5, pp. 341-349.
+
 Castells, M. (2011). The rise of the network society. John wiley & sons.
+
 Cesare, N., & Branstad, J. (2018). Mourning and Memory in the Twittersphere. Mortality, vol. 23, no.1, pp. 82-97.
+
 Dalsgaard, S., & Nielsen, M. (2013). Introduction: Time and the field. Social Analysis, vol. 57, no. 1, pp. 1-19.
+
 De Groot, J. M. (2012). Maintaining Relational Continuity with the Deceased on Facebook. OMEGA-Journal of Death and Dying, vol. 65, no. 3, pp. 195-212.
+
 De Vries, B., & Rutherford, J. (2004). Memorializing Loved Ones on the World Wide Web. OMEGA-Journal of Death and Dying, vol. 49, no. 1, pp. 5-26.
+
 Doka, K. J. (1999). Disenfranchised grief. Bereavement care, vol. 18, no. 3, pp. 37-39.
+
 Fong, C. H., & Chow, A. Y. (2017). Continuing Bonds as a Double-Edged Sword in Bereavement?. In Continuing Bonds in Bereavement (pp. 276-286). Routledge.
+
 Godbey, G., Mowen, A., & Ashburn, V. A. (2010). The benefits of physical activity provided by park and recreation services: The scientific evidence. Ashburn, VA: National Recreation and Park Association.
+
 Giaxoglou, K. (2015). ‘Everywhere I Go, You’re Going with Me’: Time and Space Deixis as Affective Positioning Resources in Shared Moments of Digital Mourning. Discourse, Context & Media, vol. 9, pp. 55-63.
+
 Giaxoglou, K., & Döveling, K. (2018). Mediatization of emotion on social media: Forms and norms in digital mourning practices. Social Media+ Society, vol. 4, no. 1, 2056305117744393.
+
 Grider, N. (2007). Faces of the Fallen and the Dematerialization of US War Memorials. Visual Communication, vol. 6, no. 3, pp. 265-279.
+
 Haverinen, A. (2014). Death and mourning rituals in online environments. J@ rgonia, vol. 24, pp. 35-41.
+
 Harvey, D. (2020). The condition of postmodernity. In The New social theory reader (pp. 235-242). Routledge.
+
 Jiang, Hong, Angela Hu, & Fang, Xiexuan. 2011 A new species of the genus Pseudopterus (Coleoptera, Staphylinidae) from China. (2022). Interfaces of life and death: Numbers with the dead [Interaction]. Journal of Communication and Society（Chinese Journal）, vol. 62, pp. 69-103.
+
 Klass, D., Silverman, P., & Nickman, S. (1996). Continuing Bonds: New Understandings of Grief. New York, NY: Routledge.
+
 Klass, D., Silverman, P. R., & Nickman, S. (2014). Continuing Bonds: New Understandings of Grief. Oxford: Taylor & Francis.
+
 Ma, Zheng & Lu, Pei. (2007). The communication interpretation of online mourning. Young Journalist （Chinese Journal）,vol. 14, pp. 146-147.
+
 Merriam, S. B., & Tisdell, E. J. (2015). Qualitative Research: A Guide to Design and Implementation. John Wiley & Sons.
+
 Miles, M. B., & Huberman, A. M. (1994). Qualitative Data Analysis: An Expanded Sourcebook. Sage.
+
 Mulrine, S. (2020). Death and Grief in Working-class Communities: Narratives of Recently Bereaved Carers (Doctoral dissertation, Teesside University).
+
 Oberoi, N., & Kakar, V. (2016). Mourning with social media: Rewiring grief. Indian Journal of Positive Psychology, vol. 7, no. 3, pp. 371-375.
+
 Öhman, C. J., & Watson, D. (2019). Are the Dead Taking Over Facebook? A Big Data Approach to the Future of Death Online. Big Data & Society, vol. 6, no. 1, 2053951719842540.
-Peng, Lan. (2020). Divide and overlap: Time in the mobile era. Journal of Northwest Normal University (Social Science Edition, Chinese Journal）,vol. 5, pp. 21-28.
+
+Peng, Lan. (2020). Divide and overlap: Time in the mobile era. Journal of Northwest Normal University (Social Science Edition, Chinese Journal),vol. 5, pp. 21-28.
+
 Pearce, C., & Komaromy, C. (2021). Introduction: Narrating Death. In Narratives of Parental Death, Dying and Bereavement: A Kind of Haunting (pp. 1-32). Cham: Springer International Publishing.
+
 Roberts, R. C. (2004). The Blessings of Gratitude: A Conceptual Analysis. The Psychology of Gratitude, pp. 58-78.
+
 Root, B. L., & Exline, J. J. (2014). The Role of Continuing Bonds in Coping with Grief: Overview and Future Directions. Death Studies, vol. 38, no. 1, pp. 1-8.
+
 Sumiala, J. (2021). Mediated Death. John Wiley & Sons.
+
 Sun Qua. (2022). The “viewing” of writing in the digital plane: Reflections on the media history of “pop-ups”. Journalist (Chinese Journal), vol. 12, pp. 41-52.
+
 Tetteh, D. A., & Akhther, N. (2021). Openness and Topic Avoidance in Interpersonal Communication about Ovarian Cancer: An Uncertainty Management Perspective. Qualitative Research in Medicine & Healthcare, vol. 5, no. 3.
+
 Urry, J. (2001). The sociology of space and place. The Blackwell companion to sociology, pp. 3-15.
+
 Walter, T. (2015). New Mourners, Old Mourners: Online Memorial Culture as a Chapter in the History of Mourning. New Review of Hypermedia and Multimedia, vol. 21, no. 1-2, pp. 10-24.
+
 Walter, T. (2017). What Death Means Now: Thinking Critically about Dying and Grieving. Policy Press.
+
 Walter, T., Hourizi, R., Moncur, W., & Pitsillides, S. (2012). Does the Internet Change How We Die and Mourn? Overview and Analysis. Omega-Journal of Death and Dying, vol. 64, no. 4, pp. 275-302.
+
 Whitrow, G. J., & Fraser, J. T. (2003). What is Time?. Oxford University Press, USA.
+
 Xu, Y., & Dong, C. (2019). Mourning Behaviour and Social Norms in Social Media. Journalism & Writing（Chinese Journal）, vol. 11, pp. 49-54.
-Yan, Feng. (2018). “Scene” as Life World PhD (Dissertation, Shanghai Normal University). Ph.
+
 Williams, A. L., & Merten, M. J. (2009). Adolescents’ online social networking following the death of a peer. Journal of Adolescent Research, vol. 24, no. 1, pp. 67-90.
+
 Zhao, Yonghua. (2021). Communication bias in the Internet: temporal bias in the spatial limit. Journal of Peking University (Philosophy and Social Science Edition, Chinese Journal) ,vol. 6, pp. 130-137.
+
 Zhou, Baohua & Zhong, Yuan. (2021). “Spring blossoms and fall winds”: social media, collective mourning and extended emotional space - a computational communication analysis of Li Wenliang’ s microblog comments (2020-2021). International Journalism（Chinese Journal）, vol. 3, pp. 79-106.
+
 Zhou, Xiaomeng, Gao, Pengyu & Qin, Yuming. (2017). Video pop-ups:a postmodern textual vortex--Taking Bilibili website as an example. Modern Audiovisual vol. 10, pp. 36-42.
