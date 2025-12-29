@@ -1,6 +1,6 @@
 ---
 title: "Research Methods|Preliminary Reflections on Learning Critical Discourse Analysis"
-date: 2025-01-01
+date: 2024-10-01
 author: Zhenting HE
 slug: second-post
 draft: false
