@@ -5,7 +5,7 @@ author: Zhenting HE
 type : list-single
 slug: second-post
 draft: false
-toc: ture
+toc: true
 categories:
   - test
 tags:
@@ -13,10 +13,10 @@ tags:
 ---
 Original title: Relational Practices of Digital Mourning Through the Lens of Continuing Bonds
 
-Abstract
+# Abstract
 This study explores the changes in the object, time, and space of digital mourning relative to traditional mourning, as well as the role of technology and its impact on socio-emotional connections. Through semi-structured in-depth interviews with 35 individuals who honored non-family members and friends on social media, the study found that the object of digital mourning extends to non-family members, that mourning is not strictly limited in time, and can be instantaneous or continuous; and that spatially it occurs in virtual space, breaking down physical spatial constraints. The spread of technology, the expansion of social networks, and the convenience of social media are the main drivers.
 
-Key Words: 
+# Key Words 
 Digital Mourning; Continuing Bonds; Relational Practices; Digital Technology
 
 # Introduction
@@ -100,7 +100,6 @@ The shift in relational practices from traditional to digital mourning has not o
 This paper has aimed to elucidate profound transformations in digital mourning, not only in its forms but also in its spatial and temporal dimensions. In traditional contexts, mourning rituals were confined to physical spaces governed by cultural traditions passed down through generations, primarily involving interactions between the bereaved and the deceased. However, the advent of social media has fundamentally reshaped mourning practices, transcending physical boundaries and introducing novel modes of expression and connection. This paradigm shift has notably resulted in a reconfiguration of social relations.Social media platforms serve as virtual memorials where the departed persist in the digital realm, offering solace and support to mourners. The distinctions between the living, the deceased, and the interactions between them blur, enabling individuals to mourn, commemorate, and engage with others in virtual spaces. Through online communities and virtual support networks, individuals garner solidarity and empathy from strangers worldwide, thereby reshaping the dynamics of social relationships during the mourning process.In the age of social media, digital mourning predominantly revolves around shared interests rather than familial ties, often focusing on friends within these interest-based communities. Consequently, digital mourning extends the scope of ongoing connections, encompassing dynamics between the living and the deceased, the living among themselves, and the living and the deceased collectively.
 
 Moreover, this study examines the dynamic evolution of mourning practices and the profound influence of digital technologies on social interactions. By delving into mourning rituals within digital media spheres, valuable insights emerge into the evolving dynamics of human connection, empathy, and commemoration in today’s digital era. As we navigate this evolving landscape, approaching mourning with sensitivity, empathy, and a profound understanding of the enduring impact on social relationships among the living, the deceased, and their wider communities remains crucial.
-
 
 # References
 Albert, D. Z. (2003). Time and chance. Harvard University Press.

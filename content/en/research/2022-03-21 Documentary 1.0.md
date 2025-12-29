@@ -1,5 +1,5 @@
 ---
-title: "Documentary|Non-Genetic Heritage 'The Entertainer or Craftsman'"
+title: "Visual Research|Non-Genetic Heritage 'The Entertainer or Craftsman'"
 date: 2022-03-21T15:20:57-18:00
 author: Zhenting HE
 slug: second-post
@@ -7,10 +7,10 @@ draft: false
 categories:
   - test
 tags:
-  - creations
+  - Visual Research
 ---
 
-This film represents the culmination of the Basic Television Program final assignment, which my group and I completed between October 2020 and January 2021. The group included Xiaoqing Lin, Xinyan Hu, and Yuting Zhou.
+This documentary represents the culmination of the Basic Television Program final assignment, which my group and I completed between October 2020 and January 2021. The group included Xiaoqing Lin, Xinyan Hu, and Yuting Zhou.
 
 <a href='https://www.youtube.com/embed/mXsrzq0FnhA?si=GMu_EhblVJ7GlBLt' target="_blank">The Entertainer or Craftsman</a >
 

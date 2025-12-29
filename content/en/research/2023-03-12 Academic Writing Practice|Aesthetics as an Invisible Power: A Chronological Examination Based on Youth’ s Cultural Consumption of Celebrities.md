@@ -5,7 +5,7 @@ author: Zhenting HE
 type : list-single
 slug: second-post
 draft: false
-toc: ture
+toc: true
 categories:
   - test
 tags:
@@ -14,10 +14,10 @@ tags:
 
 Original title: Aesthetics as an Invisible Power: A Chronological Examination Based on Youth's Cultural Consumption of Celebrities
 
-Abstract
+# Abstract
 As one of the most prevalent symbols in media culture, celebrity has an equally important influence on the aesthetic culture of society at large. Based on this, this study conducted in-depth interviews with 27 individuals from different generations, aiming to reveal the changes in the consumption of celebrity symbols by Chinese youth, and to explore the role of aesthetic power in this field. It is found that the changes in individuals’ aesthetic experiences not only reflect the ideologies and social disciplines of different eras, but also the process of consumers adjusting their aesthetics for greater exchange value. This paper asserts that the process of celebrity consumption is an intertwining of aesthetic change and fantasy overflow in reality, reflecting the complex aesthetic mechanisms and cultural dynamics in consumer society.
 
-Keywords
+# Keywords
 Aesthetics; celebrity culture; youth consumption; identity; social media
 
 
@@ -88,7 +88,7 @@ Based on the above discussion, this paper derives the following idea: aesthetics
 The mass production and consumption of stars in the current Chinese context is an inevitable product of the market-oriented media, the era of the entertainment economy, and global consumerism. As the process of marketization continues to deepen, and the status of entertainment in the media industry continues to increase, it is conceivable that the future production of stars in the media and the consumption of stars by the public will only intensify. By analyzing the collusion and struggle between the production of stars in the mass media, the text of stars, and the consumption of stars by the public, and by gaining insight into the hidden practices of power and pluralistic influences, we can at least have a clearer understanding of the present and future of China’ s media culture, even though we cannot change the rolling torrent of history.
 
 
-# Reference
+# References
 
 Agrawal, J., & Kamakura, W. A. (1995). The economic worth of celebrity endorsers: An event study analysis. Journal of marketing, vol. 59, no. 3, pp. 56-62.
 

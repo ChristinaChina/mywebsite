@@ -1,5 +1,5 @@
 ---
-title: "Preliminary Reflections on Learning Critical Discourse Analysis"
+title: "Research Methods|Preliminary Reflections on Learning Critical Discourse Analysis"
 date: 2025-01-01
 author: Zhenting HE
 slug: second-post
@@ -7,7 +7,7 @@ draft: false
 categories:
   - test
 tags:
-  - Academic Journey
+  - Research Methods
 ---
 
 What is critical discourse analysis? It is a general term that refers to a specific research method understood within the framework of interpretive social sciences or interpretive political science. The term "social sciences" would be more precise. By "interpretive," I do not mean that the fundamental task isn't, for example, collecting sting data and classifying it, which can certainly be done in mathematically-driven social sciences. Here, I am more focused on interpreting empirical data. For example, we do not need to collect large amounts of data, such as interviewing hundreds of people or surveying thousands, to understand social reality. Instead, we focus on more limited cases or specific analytical materials, approaching the understanding of social reality in a more interpretive manner.

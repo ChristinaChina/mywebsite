@@ -4,7 +4,6 @@ date: 2025-10-18
 author: Zhenting HE
 slug: second-post
 draft: false
-toc: ture
 categories:
   - test
 tags:

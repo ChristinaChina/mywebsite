@@ -1,5 +1,5 @@
 ---
-title: "Writing Issue  | The Influence of Global Fashion on People’s Lives "
+title: "Writing Issues|The Influence of Global Fashion on People’s Lives "
 date: 2023-02-07
 author: Zhenting HE
 slug: second-post
@@ -7,7 +7,7 @@ draft: false
 categories:
   - test
 tags:
-  - creations
+  - Writing Issues
 ---
 In recent years, the popularity of following fashion trends has increased significantly, shaping various aspects of daily life. This essay examines the factors contributing to the strong influence of global fashion and contends that, overall, this development produces more negative than positive effects.
 

@@ -1,5 +1,5 @@
 ---
-title: "Institutional Feminism Speech"
+title: "Oral Presentation|Institutional Feminism Speech"
 date: 2025-02-11
 author: Zhenting HE
 slug: second-post

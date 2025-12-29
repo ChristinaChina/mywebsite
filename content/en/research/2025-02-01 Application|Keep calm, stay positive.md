@@ -9,7 +9,6 @@ categories:
 tags:
   - Academic Journey
 ---
-
 Applications can truly be a challenge, a test of academic potential, language skills, and mental resilience. At first, my mindset was: “I’ll leave the choice to the professors and let them decide if I’m suited for academia.” But now, I feel differently: “No matter what, I’ll find a way to make this path work.”
 
 Maybe it takes going through this process to truly understand myself and figure out what I really want. The road ahead in research will probably be even more complicated and challenging, but in a way, the PhD application stage already sets the tone. If I make it, I’ll take on the next phase of training. If I don’t, then I’ve still chosen a way to engage with the world. Either way, it’s not a loss. It’s just a different way of living. In the end, depth and joy are mostly about perspective.

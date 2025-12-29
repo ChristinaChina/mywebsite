@@ -1,5 +1,5 @@
 ---
-title: "Visual Design|Reclaiming Paradise: Spotlight on Underage Sexual Assault"
+title: "Visual Research|Reclaiming Paradise: Spotlight on Underage Sexual Assault"
 date: 2022-05-20T15:20:57-18:00
 author: Zhenting HE
 slug: second-post
@@ -7,7 +7,7 @@ draft: false
 categories:
   - test
 tags:
-  - creations
+  - Visual Research
 ---
 
 Creation is inspired by reality. We chose the topic of sexual abuse of minors because it is a heartbreaking, highly sensitive, and complex social issue that, unfortunately, has not gained widespread attention. Notable cases, such as the 2019 molestation of a young girl by NPC deputy Wang Zhenhua, the 2020 sexual abuse of an adopted daughter by Bao Yuming, and South Korea's Nth Room scandal, have made this issue more profoundly real for our team. These incidents have underscored the severe impact of child sexual abuse, revealing how the safe and sunny world that should belong to children is, in some ways, vanishing—transformed into something more like Fang Siqi’s tragic world.

@@ -1,5 +1,5 @@
 ---
-title: "Documentary|'Southbound and Northbound'"
+title: "Visual Research|'Southbound and Northbound'"
 date: 2022-09-30
 author: Zhenting HE
 slug: second-post
@@ -7,10 +7,10 @@ draft: false
 categories:
   - test
 tags:
-  - creations
+  - Visual Research
 ---
 
-This film represents the culmination of the Documentary Theory and Practice final assignment, which my group and I completed in June 2021. The group included Xiaoqing Lin, Xinyan Hu, and Yuting Zhou.
+This documentary represents the culmination of the Documentary Theory and Practice final assignment, which my group and I completed in June 2021. The group included Xiaoqing Lin, Xinyan Hu, and Yuting Zhou.
 
 <a href='https://www.youtube.com/embed/fs0eKWFKY6I?si=zshHu17F1S8e9HHF' target="_blank">Southbound and Northbound</a >
 

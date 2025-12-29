@@ -1,5 +1,5 @@
 ---
-title: "Game with Me|Cheating between Rules and Freedom"
+title: "Academic Reflections|Game with Me? Cheating between Rules and Freedom"
 date: 2024-11-30
 author: Zhenting HE
 slug: second-post

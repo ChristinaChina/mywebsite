@@ -1,5 +1,5 @@
 ---
-title: "Writing Issue | How Effective Are Financial Incentives in Motivating Employees? "
+title: "Writing Issues|How Effective Are Financial Incentives in Motivating Employees? "
 date: 2023-06-17
 author: Zhenting HE
 slug: second-post
@@ -7,7 +7,7 @@ draft: false
 categories:
   - test
 tags:
-  - creations
+  -Writing Issues
 ---
 Providing financial rewards to employees for exceptional contributions is a common management practice, often seen as a way to boost motivation and performance. However, the effectiveness of such incentives varies. Sometimes, they may even produce unintended negative effects. This essay will explore how well financial and monetary rewards work as motivators and suggest other ways to encourage employee performance.
 

@@ -1,5 +1,5 @@
 ---
-title: "Writing Issue | The Influence of Global Fashion on People’s Lives "
+title: "Writing Issues|The Influence of Global Fashion on People’s Lives "
 date: 2023-02-07
 author: Zhenting HE
 slug: second-post
@@ -7,7 +7,7 @@ draft: false
 categories:
   - test
 tags:
-  - creations
+  -Writing Issues
 ---
 In contemporary society, there has been a growing shift toward online communication, replacing many traditional, in-person interactions. While online communication offers certain advantages, I firmly believe that adopting virtual communication models over traditional face-to-face communication presents more disadvantages than benefits. This essay will examine how the drawbacks of virtual communication, particularly in terms of emotional connection, physical well-being, and interpersonal relationships outweigh its convenience and accessibility.
 

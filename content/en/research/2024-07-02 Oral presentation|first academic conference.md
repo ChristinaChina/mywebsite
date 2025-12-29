@@ -1,5 +1,5 @@
 ---
-title: "First Participation in Academic Conference"
+title: "Oral Presentation|First Participation in Academic Conference"
 date: 2024-07-02
 author: Zhenting HE
 slug: road-not-taken
@@ -7,7 +7,7 @@ draft: false
 categories:
   - test
 tags:
-  - Academic Journey
+  - Oral Presentation
  
 ---
 At the end of March, I was thrilled to discover the incredible opportunity to submit my first academic training paper to IAMCR! I was thrilled to give it a try! I was thrilled to receive an acceptance notification just a few weeks later! I'm thrilled to say that my first academic paper was accepted by an international conference, which marks the start of my journey into formal academic presentations!  

@@ -10,11 +10,6 @@ categories:
 tags:
   - My Exhibition Record
 ---
-
-Here’s a polished version of your text:
-
----
-
 My zodiac sign is the dragon (Loong/Dragon), and when I saw these works at the Met, I immediately thought about the stark contrast between the representation of this zodiac sign in Chinese and Western contexts. The differing understandings and symbolism of the dragon between China and the West reflect the diverse interpretations of nature, social order, and morality in each culture. 
 {{<figure src="/images/MMA/1.jpg" title="Carvings of Dragon" width="720">}}
 In Chinese culture, the dragon is seen as a symbol of honor, good fortune, and authority, carrying profound cultural and spiritual connotations. It represents the harmony between heaven and earth, the legitimacy of imperial power, and the power of nature. The image of the Chinese dragon often conveys love, shelter, strength, and wisdom. For instance, the dragon is frequently found on imperial symbols, such as the emperor’s robe or jade seal, symbolizing a strong connection between the ruler and the deities of heaven and earth. Its esteemed status and harmonious relationship with the natural world reflect a deep respect for cosmic order and social stability.

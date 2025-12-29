@@ -1,13 +1,13 @@
 ---
-title: "My First Overseas Rental Experience"
-date: 2024-11-01T21:42:57-05:00
+title: "My First Overseas Rental Experience in Germany"
+date: 2024-11-01
 author: Zhenting HE
 slug: second-post
 draft: false
 categories:
   - test
 tags:
-  - It's just an experience
+  - Life Experience
 ---
 
 Before I moved to Germany, I had spent nearly 24 years living in various cities in southern China, where I was “waited on hand and foot.” The convenience of city life and a home environment where I didn’t need to worry about daily necessities made it easy to get everything I needed. However, this also meant I overlooked developing some basic self-care skills.While I'm comfortable navigating city life and can easily access convenient resources in different places, I realize that in less convenient situations, I still need practice managing various aspects of daily life independently. For instance, I know how to choose healthy restaurants to meet my nutritional needs, but if they’re closed, I find myself uncertain about preparing a quick, nutritious meal on my own. Living on my own, especially as I pursue education abroad, will undoubtedly require me to develop these skills further. I believe that this experience will help me build these essential qualities in advance, better preparing me for an independent life.
