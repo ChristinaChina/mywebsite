@@ -2,8 +2,6 @@
 title: "Academic Reflections|Accepted to a Top Conference, Yet Not as Happy as I Expected"
 date: 2025-01-15
 author: Zhenting HE
-type: list-single
-toc: true
 slug: second-post
 draft: false
 categories:
