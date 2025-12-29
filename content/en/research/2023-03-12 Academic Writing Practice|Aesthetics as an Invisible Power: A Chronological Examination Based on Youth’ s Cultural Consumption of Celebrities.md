@@ -2,7 +2,8 @@
 title: "Writing Practice|Aesthetics as an Invisible Power: A Chronological Examination Based on Youth's Cultural Consumption of Celebrities"
 date: 2023-07-12
 author: Zhenting HE
-type : list-single
+type: post
+layout: single
 slug: second-post
 draft: false
 toc: true

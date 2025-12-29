@@ -2,7 +2,8 @@
 title: "Writing Practice|Relational Practices of Digital Mourning"
 date: 2023-12-28
 author: Zhenting HE
-type : list-single
+type: post
+layout: single
 slug: second-post
 draft: false
 toc: true
