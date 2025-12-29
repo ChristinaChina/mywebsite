@@ -11,11 +11,8 @@ categories:
 tags:
   - Book Sharing
 ---
-Migration.jpg
 
-{{<figure src="/images/books/Migration.jpg" width="720">}}
-
-*Migration, Gender and Social Justice: Perspectives on Human Insecurity*
+{{<figure src="/images/books/Migration.jpg" title="Migration, Gender and Social Justice: Perspectives on Human Insecurity" width="720">}}
 
 *Migration, Gender and Social Justice: Perspectives on Human Insecurity* is a 2014 open-access book published by Springer as part of the Hexagon Series on Human and Environmental Security and Peace (Vol. 9). Edited by Thanh-Dam Truong, Des Gasper, Jeff Handmaker, and Sylvia I. Bergh, all affiliated with the International Institute of Social Studies (ISS) at Erasmus University Rotterdam, it draws on multidisciplinary research from Africa, Asia, Europe, and Latin America. The book synthesizes findings from the International Development Research Centre's (IDRC) Women and Migration program (2006-2011), funded under the Women's Rights and Citizenship initiative, and the subsequent Migration, Gender and Social Justice (MGSJ) synthesis project (2011-2013). It aims to highlight Southern perspectives on migration, challenge dominant policy frames, and advocate for social justice by addressing power structures (gender, class, race/ethnicity, generation) that create inequalities in migration institutions. The focus is on human insecurity—vulnerabilities in livelihoods, rights, and dignity—while emphasizing women's experiences, though it also explores masculinities and legal liminality. The book includes policy briefs for advocacy and is available free at SpringerLink.
 
