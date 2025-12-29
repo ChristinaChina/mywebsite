@@ -2,8 +2,11 @@
 title: "Research Methods|Overview of Thematic Analysis and TAG: Methodology, Comparison, and Applications"
 date: 2024-12-24
 author: Zhenting HE
+type: post
+layout: single
 slug: second-post
 draft: false
+toc: true
 categories:
   - test
 tags:

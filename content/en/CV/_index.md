@@ -1,9 +1,14 @@
 ---
 title: "Zhenting(Maggie) HE's Curriculum Vitae"
 type : list-single
-toc: true
 date: 2025-11-22
+type: post
+layout: single
 slug: second-post
+draft: false
+toc: true
+categories:
+  - test
 draft: false
 ---
 ## Research Interests
