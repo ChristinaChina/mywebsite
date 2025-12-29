@@ -9,7 +9,6 @@ categories:
 tags:
   - Research Methods
 ---
-
 What is critical discourse analysis? It is a general term that refers to a specific research method understood within the framework of interpretive social sciences or interpretive political science. The term "social sciences" would be more precise. By "interpretive," I do not mean that the fundamental task isn't, for example, collecting sting data and classifying it, which can certainly be done in mathematically-driven social sciences. Here, I am more focused on interpreting empirical data. For example, we do not need to collect large amounts of data, such as interviewing hundreds of people or surveying thousands, to understand social reality. Instead, we focus on more limited cases or specific analytical materials, approaching the understanding of social reality in a more interpretive manner.
 
 People typically construct meaning from their experiences and interpret what is happening in the world around them. A crucial point, however, is that critical discourse analysis relies on a specific social science methodology that acknowledges that social reality, or reality itself, is constructed. This means that for some, particularly those engaged in critical discourse analysis or similar interpretive social sciences, the argument is that social reality does not exist independently of us; rather, we create it through social practices and experiences.

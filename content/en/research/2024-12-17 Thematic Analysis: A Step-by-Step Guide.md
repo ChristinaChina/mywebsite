@@ -1,6 +1,6 @@
 ---
 title: "Research Methods|Thematic Analysis: A Step-by-Step Guide"
-date: 2024-10-01
+date: 2024-12-17
 author: Zhenting HE
 slug: second-post
 draft: false

@@ -1,6 +1,6 @@
 ---
-title: "What does it mean to have an emotional connection to one’s research? Would my engagement with gender studies count?"
-date: 2025-11-18
+title: "What does it mean to have an emotional connection to one’s research? "
+date: 2025-09-22
 author: Zhenting HE
 slug: second-post
 draft: false
