@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{{<figure src="/images/homepage.jpg" title="Welcome to my homepage! My name is Zhenting HE." width="360">}}
+{{<figure src="/images/2025-08-22.jpg" title="Welcome to my homepage! My name is Zhenting HE." width="360">}}
 
 One line I’ve long held close comes from Antonio Gramsci: “pessimism of the intellect, optimism of the will.”
 

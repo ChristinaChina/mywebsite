@@ -1,5 +1,5 @@
 ---
-title: "Academic Reflections|Why write this master's thesis?"
+title: "Academic Reflections|Why write this thesis?"
 date: 2025-06-21
 author: Zhenting HE
 slug: second-post

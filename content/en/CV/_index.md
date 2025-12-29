@@ -1,12 +1,11 @@
 ---
 title: "Zhenting(Maggie) HE's Curriculum Vitae"
 type : list-single
-toc: ture
+toc: true
 date: 2025-11-22
 slug: second-post
 draft: false
 ---
-
 ## Research Interests
 I am interested in cultural studies, particularly in the interplay between technology and culture. Methodologically, I am primarily trained in qualitative research, employing semi-structured depth interview and analyzing empirical materials through thematic analysis informed by grounded theory. 
 

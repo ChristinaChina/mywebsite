@@ -9,7 +9,6 @@ categories:
 tags:
   - Academic Journey
 ---
-
 During the academic lecture, four research methods were introduced: classic ethnography, dialogical and biographical approaches, cultural semiotics, and neo-/post-Marxist approaches.
 I have two related questions: 
 First, these four methods may differ in their theoretical foundations and epistemologies. Is it truly feasible to integrate them in a single study? If so, what theoretical or methodological considerations should be taken into account to ensure a coherent integration? 
