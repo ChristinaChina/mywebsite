@@ -20,8 +20,8 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "/en/Research/"
     weight = 2
 [[menu.en]]
-    name = "Software"
-    url = "/en/software/"
+    name = "Analysis Tool"
+    url = "/en/Analysis Tool"
     weight = 3
 [[menu.en]]
     name = "Community"
