@@ -5,11 +5,11 @@ author: Zhenting HE
 type : list-single
 slug: second-post
 draft: false
-toc: ture
+toc: true
 categories:
   - test
 tags:
-  - Book Sharing
+  - "Book Sharing"
 ---
 
 {{<figure src="/images/future.jpg" title="The Future Is in Your Hands: Portrait Photography from Senegal" width="360">}}
@@ -31,7 +31,7 @@ The book spans 285 pages, with a bibliography and index. Based on the table of c
    - *Chapter 4*: Ibrahima Thiam’s Vintage Portraits (p. 167): Case study of a contemporary Senegalese photographer working with historical styles and archives.
    - *Chapter 5*: Cut from the Same Cloth: Omar Victor Diop’s The Studio of Vanities (p. 202): Explores Diop's series portraying young urban African creatives (fashion designers, musicians, etc.) in staged, vibrant portraits that reference historical studio photography while celebrating modern African vanities and identities.
       - Relevant Sources:
-      < <a href='https://www.kulturen.com/vara-besoksmal/' target="_blank">'Kulturen i Lund'</a > tab.
+      < <a href='https://www.kulturen.com/vara-besoksmal/' target="_blank">'Kulturen i Lund'</a >
       
       {{<figure src="/images/Omar.jpg" title="Omar Victor Diop: The Studio of Vanitiese." width="360">}}
 
