@@ -1,4 +1,4 @@
-baseURL = "baseURL = "https://zhentinghe.com/"
+baseURL = "baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Zhenting HE"
 theme = "hugo-ht"
