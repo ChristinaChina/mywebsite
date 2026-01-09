@@ -1,8 +1,4 @@
 baseURL = "https://example.com/"
-[taxonomies]
-  category = "categories"
-  tag = "tags"
-
 languageCode = "en-us"
 title = "Zhenting HE"
 theme = "hugo-ht"
