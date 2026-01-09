@@ -12,7 +12,7 @@ tags:
   - Book Sharing
 ---
 
-{{<figure src="/images/Migration.jpg" title="Migration, Gender and Social Justice: Perspectives on Human Insecurity" width="360">}}
+{{<figure src="/images/future.jpg" title="The Future Is in Your Hands: Portrait Photography from Senegal" width="360">}}
 
 ## Overview of the Book
 *The Future Is in Your Hands: Portrait Photography from Senegal* is a 2023 scholarly monograph by **Beth A. Buggenhagen**, an anthropologist and Associate Professor at Indiana University Bloomington. Published by Indiana University Press as part of the Material Vernaculars series (edited by Jason Baird Jackson), the book explores the social, cultural, and material history of portrait photography in Senegal from colonial times through independence to contemporary practices. Buggenhagen draws on ethnographic fieldwork, archival research (including collections at the Smithsonian and in Senegal), and analysis of circulating images to examine how portraits embody themes of migration, family, identity, visibility, separation, rupture, and repatriation.
@@ -30,6 +30,11 @@ The book spans 285 pages, with a bibliography and index. Based on the table of c
    - *Chapter 3*: Family Portraits (p. 134): Focuses on domestic and familial uses of photography in Senegal.
    - *Chapter 4*: Ibrahima Thiam’s Vintage Portraits (p. 167): Case study of a contemporary Senegalese photographer working with historical styles and archives.
    - *Chapter 5*: Cut from the Same Cloth: Omar Victor Diop’s The Studio of Vanities (p. 202): Explores Diop's series portraying young urban African creatives (fashion designers, musicians, etc.) in staged, vibrant portraits that reference historical studio photography while celebrating modern African vanities and identities.
+      - Relevant Sources:
+      - 
+
+      <a href='https://www.mutualart.com/Exhibition/Omar-Victor-Diop--The-Studio-of-Vanities/0F63FD00E8A297F2' target="_blank">{{<figure src="/images/Omar.jpg" title="Omar Victor Diop: The Studio of Vanitiese." width="720">}}</a > tab.
+      
    - *Epilogue*: New Thresholds for “Reigniting Collections” (p. 237): Discusses efforts to digitize, repatriate, or recontextualize Senegalese photographic archives amid museum ethics and decolonization debates.
 
 ## Themes and Contributions
@@ -44,6 +49,8 @@ The book situates Senegalese portraiture within broader African photography hist
 This ethnographic and visual anthropology text contributes to studies of material culture, African art, and postcolonial photography. It highlights how portraits help Senegalese navigate global volatility, maintaining ties across distances.
 
 *In what follows, I focus on two aspects of the book that I find most compelling.*
+
+## The two sections that interest me most
 
 ### Materiality and Circulation: Photos as Tangible Objects in Migration Networks
 
