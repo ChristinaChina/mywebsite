@@ -45,10 +45,9 @@ Buggenhagen complicates linear histories of African photography (often dominated
    - Contemporary Art — Bridges historical and modern practices, e.g., Diop's celebratory portraits of Africa's urban youth.
 The book situates Senegalese portraiture within broader African photography histories (e.g., alongside works on Mama Casset or other studio photographers).
    - Relevant Sources:
-  
-    < <a href='https://edition.cnn.com/2024/03/01/style/gallery/senegalese-photography-history-spc' target="_blank">1.Senegalese photography’s long, often buried, history'</a > 
+    <a href='https://edition.cnn.com/2024/03/01/style/gallery/senegalese-photography-history-spc' target="_blank">1.Senegalese photography’s long, often buried, history</a > 
 
-    < <a href='https://www.aramcoworld.com/articles/2025/nd25/delving-into-senegals-past-a-conversation-with-giulia-paoletti' target="_blank">2.Author Giulia Paoletti Traces History of Senegal’s Photography</a > 
+    <a href='https://www.aramcoworld.com/articles/2025/nd25/delving-into-senegals-past-a-conversation-with-giulia-paoletti' target="_blank"> 2.Author Giulia Paoletti Traces History of Senegal’s Photography</a > 
 
 
 ## Significance
