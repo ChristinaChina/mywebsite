@@ -1,6 +1,6 @@
 ---
 title: "Research Methods|Textual Analysis: A Structured Overview"
-date: 2022-08-05
+date: 2023-08-05
 author: Zhenting HE
 type: post
 layout: single

@@ -1,6 +1,6 @@
 ---
 title: "Visual Research|'Southbound and Northbound'"
-date: 2022-09-30
+date: 2024-09-30
 author: Zhenting HE
 slug: second-post
 draft: false

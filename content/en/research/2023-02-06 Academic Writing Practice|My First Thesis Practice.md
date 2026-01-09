@@ -1,6 +1,6 @@
 ---
 title: "Writing Practice|A Study of Women in Hou Hsiao-hsien's Films"
-date: 2022-05-15
+date: 2023-02-06
 author: Zhenting HE
 type: post
 layout: single
