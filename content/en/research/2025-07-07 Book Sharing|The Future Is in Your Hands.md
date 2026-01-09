@@ -31,10 +31,10 @@ The book spans 285 pages, with a bibliography and index. Based on the table of c
    - *Chapter 4*: Ibrahima Thiam’s Vintage Portraits (p. 167): Case study of a contemporary Senegalese photographer working with historical styles and archives.
    - *Chapter 5*: Cut from the Same Cloth: Omar Victor Diop’s The Studio of Vanities (p. 202): Explores Diop's series portraying young urban African creatives (fashion designers, musicians, etc.) in staged, vibrant portraits that reference historical studio photography while celebrating modern African vanities and identities.
       - Relevant Sources:
-      - 
-
-      <a href='https://www.mutualart.com/Exhibition/Omar-Victor-Diop--The-Studio-of-Vanities/0F63FD00E8A297F2' target="_blank">{{<figure src="/images/Omar.jpg" title="Omar Victor Diop: The Studio of Vanitiese." width="720">}}</a > tab.
+      < <a href='https://www.kulturen.com/vara-besoksmal/' target="_blank">'Kulturen i Lund'</a > tab.
       
+      {{<figure src="/images/Omar.jpg" title="Omar Victor Diop: The Studio of Vanitiese." width="360">}}
+
    - *Epilogue*: New Thresholds for “Reigniting Collections” (p. 237): Discusses efforts to digitize, repatriate, or recontextualize Senegalese photographic archives amid museum ethics and decolonization debates.
 
 ## Themes and Contributions
@@ -44,6 +44,12 @@ Buggenhagen complicates linear histories of African photography (often dominated
    - Archives and Repatriation — Critiques Western museum holdings while noting digitization's role in broader access.
    - Contemporary Art — Bridges historical and modern practices, e.g., Diop's celebratory portraits of Africa's urban youth.
 The book situates Senegalese portraiture within broader African photography histories (e.g., alongside works on Mama Casset or other studio photographers).
+   - Relevant Sources:
+  
+    < <a href='https://edition.cnn.com/2024/03/01/style/gallery/senegalese-photography-history-spc' target="_blank">1.Senegalese photography’s long, often buried, history'</a > 
+
+    < <a href='https://www.aramcoworld.com/articles/2025/nd25/delving-into-senegals-past-a-conversation-with-giulia-paoletti' target="_blank">2.Author Giulia Paoletti Traces History of Senegal’s Photography</a > 
+
 
 ## Significance
 This ethnographic and visual anthropology text contributes to studies of material culture, African art, and postcolonial photography. It highlights how portraits help Senegalese navigate global volatility, maintaining ties across distances.
