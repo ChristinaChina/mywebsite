@@ -4,10 +4,10 @@ title: Home
 
 {{<figure src="/images/2025-08-22.jpg" title="Welcome to my homepage! My name is Zhenting HE." width="360">}}
 
-One line I’ve long held close comes from Antonio Gramsci: “pessimism of the intellect, optimism of the will.”
-
-I study how media technologies shape everyday life and human relationships, with a focus on gendered experiences. My research explores digital media, digital journalism, visual culture, memory, and care, examining how people experience and make meaning in contemporary society. I approach these questions from media studies and cultural anthropology, with particular attention to China and transnational contexts.
+Hi, I’m Zhenting. I am a master’s student in **Sociocultural Anthropology** at **University of Heidelberg** in Germany, from southeastern China. My research focuses on **critical media culture, migration, gender, and visual anthropology**, with particular attention to the **cultural and philosophical dimensions of digital media, highly skilled migration, and digital surveillance**. Methodologically, I use **fieldwork and semi-structured interviews**, combined with **textual and visual analysis**, to explore how everyday practices, identities, and social relations are shaped through culture and technology. My research sites include **East Asia, the United States, and Germany**.  
 
 For more details about my background, please feel free to check out my <a href='/files/CV-Zhenting HE.pdf'  target="_blank"> CV </a >. In terms of my academic experience, please refer to the <a href='https://www.zhentinghe.com/en/research/' target="_blank">'Research'</a > tab. To view personal posts that reflect my personality, please check the <a href='https://www.zhentinghe.com/en/life/' target="_blank">'Life'</a > tab.
 
-I see academic work as an integral part of my life, so beyond reading and writing, I enjoy observing how society works. I also value time on my own, enjoying visits to museums, street photography, animation, hiking, and detective films, while appreciating time shared with my family.
+I am systematically expanding my knowledge of **philosophy and social-cultural anthropology** and engaging with **cutting-edge theories** to better understand these contemporary issues.  
+
+Outside of research, I enjoy **teaching, volunteering, working on documentaries and films, and engaging with diverse communities**, experiences that often inspire new perspectives for my academic work.
