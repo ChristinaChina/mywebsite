@@ -74,30 +74,29 @@ This paper employs *textual analysis* as the primary research method, examining 
 ## Teaching  EXPERIENCE 
 ### Discussion Leader, Institutional Feminism and Family
    - University of Marburg, 2025 Spring
-   - Led a seminar presentation and facilitated discussion on institutional feminism, family policy, and gender inequality based on the OECD SIGI 2023 Global Report.
+      - Led a seminar presentation and facilitated discussion on institutional feminism, family policy, and gender inequality based on the OECD SIGI 2023 Global Report.
 ### Teaching Assistant, Visual Rhetoric Study
    - Shenzhen, 2023 Spring
-   - Assisted in course organization and activities, facilitated classroom discussions, and supported student engagement with course material on visual rhetoric and media analysis.
+      - Assisted in course organization and activities, facilitated classroom discussions, and supported student engagement with course material on visual rhetoric and media analysis.
 #### Panel Moderator, Frameworks and Discourses Panel
    - Shenzhen, April, 2025
-   - Chaired an academic panel exploring: reconstruction of aviation accident timelines, compiled analyses of the Russia & Ukraine war, framework competition among participants in Weibo feminism discussions, and discourse production in feminist social media. Coordinated speakers and facilitated audience Q&A across diverse topics.
+      - Chaired an academic panel exploring: reconstruction of aviation accident timelines, compiled analyses of the Russia & Ukraine war, framework competition among participants in Weibo feminism discussions, and discourse production in feminist social media. Coordinated speakers and facilitated audience Q&A across diverse topics.
 #### Panel Moderator, Power and Content Production Panel
    - Shenzhen, May, 2025
-   - Led a cross-disciplinary panel covering: empowerment-oriented short video practices among families with autism, feminist creative theory, and copyright issues in secondary adaptations of film and television works. Managed speakers, guided discussion, and engaged audience across multiple intersecting topics.
+      - Led a cross-disciplinary panel covering: empowerment-oriented short video practices among families with autism, feminist creative theory, and copyright issues in secondary adaptations of film and television works. Managed speakers, guided discussion, and engaged audience across multiple intersecting topics.
 ### Organizer & Facilitator, Qualitative Research Workshop
    - Guangzhou, 2023 Autumn
-   - Organized and facilitated a workshop on qualitative research methods, including interview design, data collection, and analysis techniques. Coordinated workshop logistics, guided participants through practical exercises, and promoted discussion on methodological applications in media, gender, and digital culture research.
+      - Organized and facilitated a workshop on qualitative research methods, including interview design, data collection, and analysis techniques. Coordinated workshop logistics, guided participants through practical exercises, and promoted discussion on methodological applications in media, gender, and digital culture research.
 ### Educational Outreach Volunteer, Sex Education for Rural Children
    - Jinxi, Jiangxi, China, 2019 Summer
-   - Conducted age-appropriate sex education sessions for children in rural communities, explaining topics related to health, safety, and relationships. Facilitated interactive activities to engage students and promote understanding.
-
+      - Conducted age-appropriate sex education sessions for children in rural communities, explaining topics related to health, safety, and relationships. Facilitated interactive activities to engage students and promote understanding.
 
 ## Academic Serivice
 ### Manuscript Reviewer
-- <a href='https://www.icahdq.org' target="_blank">CInternational Communication Association (ICA)</a >,November - December, 2025
+- <a href='https://www.icahdq.org' target="_blank">CInternational Communication Association (ICA)</a >, November - December, 2025
 - <a href='https://www.aejmc.org' target="_blank">Association for Education in Journalism and Mass Communication (AEJMC)</a >，April - May, 2025
 - <a href='https://www.natcom.org' target="_blank">National Communication Associatio(NCA)</a >，March-May, 2025
-- Association for Education in Journalism and Mass Communication (AEJMC),April-May, 2024
+- Association for Education in Journalism and Mass Communication (AEJMC),April - May, 2024
 - <a href='https://www.aejmc.org' target="_blank"> Association for Education in Journalism and Mass Communication (AEJMC)</a >, April - May, 2024
 ### Student Assistant to the Organiser
 - <a href='http://www.ccgc-szu.com/h-nd-86.html' target="_blank">Annual Conference on Digital Journalism in China</a >, May, 2024
@@ -118,16 +117,16 @@ This paper employs *textual analysis* as the primary research method, examining 
 ## Interships 
 ### Intern Financial Journalist & Producer,Southern Finance Omnimedia Corp
    - July, 2025 - November, 2025 
-      - Planned investigative angles and identified underreported story leads, consistently pitching original ideas with strong public-interest value.\
-       - Produced daily news stories, field reports, and in-depth investigative pieces with tightly structured logic and precise, compelling language.\
-       - Conducted on-camera interviews and field investigations with a calm, natural presence and clear, authoritative delivery.\
-      - Skillfully used video-editing tools to structure evidence, add subtitles, and craft coherent post-production narratives.\
+      - Planned investigative angles and identified underreported story leads, consistently pitching original ideas with strong public-interest value.
+      - Produced daily news stories, field reports, and in-depth investigative pieces with tightly structured logic and precise, compelling language.
+      - Conducted on-camera interviews and field investigations with a calm, natural presence and clear, authoritative delivery.
+      - Skillfully used video-editing tools to structure evidence, add subtitles, and craft coherent post-production narratives.
       - Reported across financial, social, and public-accountability topics, demonstrating the ability to adjust investigative approaches and narrative styles to different subject matters.
 ### Executive Producer, Global Investment Promotion Conference 
   - June, 2025 - December, 2025     
-      - Led the end-to-end production process, coordinating script development, visual planning, on-site filming, and post-production.\
-      - Managed cross-functional collaboration between creative teams, technical staff, and external partners to ensure timely and high-quality delivery.\
-      - Oversaw budgeting, scheduling, and resource allocation within a fast-paced production timeline.\
+      - Led the end-to-end production process, coordinating script development, visual planning, on-site filming, and post-production.
+      - Managed cross-functional collaboration between creative teams, technical staff, and external partners to ensure timely and high-quality delivery.
+      - Oversaw budgeting, scheduling, and resource allocation within a fast-paced production timeline.
       - Ensured the final video aligned with the event’s communication objectives and institutional branding standards.
 
 ## Skills
