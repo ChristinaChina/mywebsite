@@ -1,7 +1,8 @@
 ---
 title: "Zhenting(Maggie) HE's Curriculum Vitae"
+author: Zhenting HE
 type : list-single
-date: 2025-11-22
+date: 2025-11-18
 type: post
 layout: single
 slug: second-post
@@ -18,25 +19,32 @@ Ongoing ongoing interests include the construction of technology, sociocultural 
 
 ## Personal Information
 - Educational Background
-
-   - I have received interdisciplinary training across journalism, communication studies, and cultural anthropology during my undergraduate and master’s studies. My academic education spans both China and Germany, combining a strong foundation in news production, media theory, and communication research with anthropological perspectives on culture, society, and everyday practices. This cross-disciplinary and cross-regional educational background has enabled me to approach media and cultural phenomena with both empirical sensitivity and critical, comparative insight.
+   - M.A. in Sociocultural Anthropology(Sub-specialisation: Media Anthropology and linguistic Anthropology )
+   - Visiting Student in Cultural and Social Anthropology and Political Science
+    - M.A. in Journalism and Communication 
+   (Sub-specialisation: Visual Communication and Creative Industries)Graduated with honours
+   - B.A. in Journalism and Communication (Sub-specialisation: Radio and Television)(Graduated with honours)
+  
+   *I have received interdisciplinary training across journalism, communication studies, and cultural anthropology during my undergraduate and master’s studies. My academic education spans both China and Germany, combining a strong foundation in news production, media theory, and communication research with anthropological perspectives on culture, society, and everyday practices. This cross-disciplinary and cross-regional educational background has enabled me to approach media and cultural phenomena with both empirical sensitivity and critical, comparative insight.*
 
 - Contact Details
-   - Website: zhentinghe.com
+   - Website: www.zhentinghe.com
    - Email: heyzhenting@gmail.com
 
 ## Peer-reviewed Conference Presentations
-- He, Z. 2025. The Work Ethic of Chinese Digital Feminists: From the Neoliberalism Perspective. Paper Presented at the 75th Annual Conference of the International Communication Association(ICA), Colorado, USA.\
-In this essay, I employ online ethnographic study and in-depth interviews with 35 Chinese digital feminists to illustrate how digital feminists in China respondto neoliberal conditions and how they sustain their activism despite a lack of unanimous support within their own groups. My analysis indicates that digital feminists in China have employed public interest activities as a cultural instrument tochallenge the advancement of global neoliberalism. Consequently, they have progressively investigated the formulation of a feminist cultural politics that is alignedwith the political and commercial contexts of China.
-
+### Critical Media Culture
 - He, Z. 2024. Aesthetics as an Invisible Power: A Chronological Examination Based on Youth’ s Cultural Consumption of Celebrities. Paper Presented at the 107th Association for Education in Journalism and Mass Communication(AEJMC), Philadelphia, America. \
-As one of the most prevalent symbols in media culture, celebrity has an equally important influence on the aesthetic culture of society at large. Based on this, this study conducted in-depth interviews with 27 individuals from different generations, aiming to reveal the changes in the consumption of celebrity symbols by Chinese youth, and to explore the role of aesthetic power in this field. It is found that the changes in individuals’ aesthetic experiences not only reflect the ideologies and social disciplines of different eras, but also the process of consumers adjusting their aesthetics for greater exchange value. This paper asserts that the process of celebrity consumption is an intertwining of aesthetic change and fantasy overflow in reality, reflecting the complex aesthetic mechanisms and cultural dynamics in consumer society.
+As one of the most prevalent symbols in media culture, celebrity has an equally important influence on the aesthetic culture of society at large. Based on this, this study conducted *in-depth interviews with 27 individuals* from different generations, aiming to reveal the changes in the consumption of celebrity symbols by Chinese youth, and to explore the role of aesthetic power in this field. It is found that the changes in individuals’ aesthetic experiences not only reflect the ideologies and social disciplines of different eras, but also the process of consumers adjusting their aesthetics for greater exchange value. This paper asserts that the process of celebrity consumption is an intertwining of aesthetic change and fantasy overflow in reality, reflecting the complex aesthetic mechanisms and cultural dynamics in consumer society.
 
 - He, Z. 2024. Relational Practices of Digital Mourning Through the Lens of Continuing Bonds. Paper Presented at the 107th Association for Education in Journalism and Mass Communication(AEJMC), Philadelphia, America. \
-This study explores the changes in the object, time, and space of digital mourning relative to traditional mourning, as well as the role of technology and its impact on socio-emotional connections. Through semi-structured in-depth interviews with 35 individuals who honored non-family members and friends on social media, the study found that the object of digital mourning extends to non-family members, that mourning is not strictly limited in time, and can be instantaneous or continuous; and that spatially it occurs in virtual space, breaking down physical spatial constraints. The spread of technology, the expansion of social networks, and the convenience of social media are the main drivers.
+This study explores the changes in the object, time, and space of digital mourning relative to traditional mourning, as well as the role of technology and its impact on socio-emotional connections. Through *semi-structured in-depth interviews with 35 individuals* who honored non-family members and friends on social media, the study found that the object of digital mourning extends to non-family members, that mourning is not strictly limited in time, and can be instantaneous or continuous; and that spatially it occurs in virtual space, breaking down physical spatial constraints. The spread of technology, the expansion of social networks, and the convenience of social media are the main drivers.
 
+### Gender Studies
+- He, Z. 2025. The Work Ethic of Chinese Digital Feminists: From the Neoliberalism Perspective. Paper Presented at the 75th Annual Conference of the International Communication Association(ICA), Colorado, USA.\
+In this essay, I employ *online ethnographic study and in-depth interviews with 35 Chinese digital feminists* to illustrate how digital feminists in China respondto neoliberal conditions and how they sustain their activism despite a lack of unanimous support within their own groups. My analysis indicates that digital feminists in China have employed public interest activities as a cultural instrument tochallenge the advancement of global neoliberalism. Consequently, they have progressively investigated the formulation of a feminist cultural politics that is alignedwith the political and commercial contexts of China.
 - He, Z. 2024. Research on the Female Images in Hou Hsiao-hsien’ s Films. Paper Presented at the 2024 International Association for Media and Communication Research(IAMCR), Christchurch, New Zealand.\
-This paper employs textual analysis as the primary research method, examining the portrayal of women in the 19 films directed by Hou Hsiao-hsien and categorizing it into two distinct groups: women within the family and women in society. It then proceeds to interpret and refine these portrayals through the use of comparison and analogical analysis, as well as dialectical thinking to elucidate the differences and similarities in the representation of female images and the characterization under the mapping of female images.
+This paper employs *textual analysis* as the primary research method, examining the portrayal of women in the 19 films directed by Hou Hsiao-hsien and categorizing it into two distinct groups: women within the family and women in society. It then proceeds to interpret and refine these portrayals through the use of comparison and analogical analysis, as well as dialectical thinking to elucidate the differences and similarities in the representation of female images and the characterization under the mapping of female images.
+
 
 ## Academic Serivice
 - Manuscript Reviewer,  <a href='https://www.icahdq.org' target="_blank">CInternational Communication Association (ICA)</a >,November - December, 2025
@@ -57,7 +65,25 @@ Manuscript Reviewer, Association for Education in Journalism and Mass Communicat
 - National Survey Reseach Center, Renmin University of China, April - September, 2021
    - Remote telephone interviewer
       - Participated in interviews for five of China’s larger research projects, including topics such as the Winter Olympics, carbon neutrality, and student employment.Through these projects, I learned the importance of scheduling interviews and being sincere, polite, and confident. This experience helped me build a strong foundation for conducting interviews in my qualitative research.
-      - Learned and mastered STATA and SPSS data analysis software to analyze the results of some of the questionnaires, enriching my better knowledge of statistics and data analysis ability, so that I can be more smooth when reading academic articles on related methods.
+      - Learned and mastered STATA and SPSS data analysis software to analyze the results of the projects' questionnaires, enriching my better knowledge of statistics and data analysis ability, so that I can be more smooth when reading academic articles on related methods.
+
+## Teaching  EXPERIENCE 
+### Discussion Leader, Institutional Feminism and Family
+   - University of Marburg, 2025 Spring
+   - Led a seminar presentation and facilitated discussion on institutional feminism, family policy, and gender inequality based on the OECD SIGI 2023 Global Report.
+### Teaching Assistant, Visual Rhetoric Study
+   - Shenzhen, 2023 Spring
+   - Assisted in course organization and activities, facilitated classroom discussions, and supported student engagement with course material on visual rhetoric and media analysis.
+#### Panel Moderator, Frameworks and Discourses Panel, April 7, 2025
+   - Chaired an academic panel exploring: reconstruction of aviation accident timelines, compiled analyses of the Russia & Ukraine war, framework competition among participants in Weibo feminism discussions, and discourse production in feminist social media. Coordinated speakers and facilitated audience Q&A across diverse topics.
+#### Panel Moderator, Power and Content Production Panel, May 2025
+   - Led a cross-disciplinary panel covering: empowerment-oriented short video practices among families with autism, feminist creative theory, and copyright issues in secondary adaptations of film and television works. Managed speakers, guided discussion, and engaged audience across multiple intersecting topics.
+### Organizer & Facilitator, Qualitative Research Workshop
+   - Guangzhou, China, 2023 Autumn
+   - Organized and facilitated a workshop on qualitative research methods, including interview design, data collection, and analysis techniques. Coordinated workshop logistics, guided participants through practical exercises, and promoted discussion on methodological applications in media, gender, and digital culture research.
+### Educational Outreach Volunteer, Sex Education for Rural Children
+   - Jinxi, Jiangxi, China, 2019 Summer
+   - Conducted age-appropriate sex education sessions for children in rural communities, explaining topics related to health, safety, and relationships. Facilitated interactive activities to engage students and promote understanding.
 
 ## Awards and Fellowships
 - National Scholarship (Top 0.2% ), <a href='https://hudong.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_yjs/201508/t20150810_199224.html' target="_blank">Ministry of Education of the People’ s Republic of China</a >
