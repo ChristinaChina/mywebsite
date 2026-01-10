@@ -50,13 +50,6 @@ Ongoing ongoing interests include the construction of technology, sociocultural 
 - National Survey Reseach Center, Renmin University of China, April - September, 2021
    - Participated in interviews for five of China’s larger research projects, including topics such as the Winter Olympics, carbon neutrality, and student employment.Through these projects, I learned the importance of scheduling interviews and being sincere, polite, and confident. This experience helped me build a strong foundation for conducting interviews in my qualitative research.
    - Learned and mastered STATA and SPSS data analysis software to analyze the results of the projects' questionnaires, enriching my better knowledge of statistics and data analysis ability, so that I can be more smooth when reading academic articles on related methods.
-### Publication
-#### Digital Journalism
-- Huang, W., He, Z., Zhao, Q., & Chang, J., Public Trust and Community Develpment: A Review of Communication Research in 2023, Press, 2024, (01), 32-48. (Chinese Social Sciences Citation Index)
-   *Produced as part of the National Social Science Fund Major Project “Digital Journalism: Theory, Methods, and Practice”*
-#### Film and Television Cultural Communication
-- He, Z., Street Dance of China: The Development Strategy of Niche Vertical Online Variety Show, Satellite TV & IP Multimedia, 2021(16), 142-144. (Chinese Provincial Publication)
-
 
 ### Peer-reviewed Conference Presentations
 #### Critical Media Culture
@@ -71,6 +64,12 @@ This study explores the changes in the object, time, and space of digital mourni
 In this essay, I employ *online ethnographic study and in-depth interviews with 35 Chinese digital feminists* to illustrate how digital feminists in China respondto neoliberal conditions and how they sustain their activism despite a lack of unanimous support within their own groups. My analysis indicates that digital feminists in China have employed public interest activities as a cultural instrument tochallenge the advancement of global neoliberalism. Consequently, they have progressively investigated the formulation of a feminist cultural politics that is alignedwith the political and commercial contexts of China.
 - He, Z. 2024. Research on the Female Images in Hou Hsiao-hsien’ s Films. Paper Presented at the 2024 International Association for Media and Communication Research(IAMCR), Christchurch, New Zealand.\
 This paper employs *textual analysis* as the primary research method, examining the portrayal of women in the 19 films directed by Hou Hsiao-hsien and categorizing it into two distinct groups: women within the family and women in society. It then proceeds to interpret and refine these portrayals through the use of comparison and analogical analysis, as well as dialectical thinking to elucidate the differences and similarities in the representation of female images and the characterization under the mapping of female images.
+### Publication
+#### Digital Journalism
+- Huang, W., He, Z., Zhao, Q., & Chang, J., Public Trust and Community Develpment: A Review of Communication Research in 2023, Press, 2024, (01), 32-48. (Chinese Social Sciences Citation Index)
+   *Produced as part of the National Social Science Fund Major Project “Digital Journalism: Theory, Methods, and Practice”*
+#### Film and Television Cultural Communication
+- He, Z., Street Dance of China: The Development Strategy of Niche Vertical Online Variety Show, Satellite TV & IP Multimedia, 2021(16), 142-144. (Chinese Provincial Publication)
 
 ## Teaching  EXPERIENCE 
 ### Discussion Leader, Institutional Feminism and Family
@@ -79,12 +78,14 @@ This paper employs *textual analysis* as the primary research method, examining 
 ### Teaching Assistant, Visual Rhetoric Study
    - Shenzhen, 2023 Spring
    - Assisted in course organization and activities, facilitated classroom discussions, and supported student engagement with course material on visual rhetoric and media analysis.
-#### Panel Moderator, Frameworks and Discourses Panel, April 7, 2025
+#### Panel Moderator, Frameworks and Discourses Panel
+   - Shenzhen, April, 2025
    - Chaired an academic panel exploring: reconstruction of aviation accident timelines, compiled analyses of the Russia & Ukraine war, framework competition among participants in Weibo feminism discussions, and discourse production in feminist social media. Coordinated speakers and facilitated audience Q&A across diverse topics.
-#### Panel Moderator, Power and Content Production Panel, May 2025
+#### Panel Moderator, Power and Content Production Panel
+   - Shenzhen, May, 2025
    - Led a cross-disciplinary panel covering: empowerment-oriented short video practices among families with autism, feminist creative theory, and copyright issues in secondary adaptations of film and television works. Managed speakers, guided discussion, and engaged audience across multiple intersecting topics.
 ### Organizer & Facilitator, Qualitative Research Workshop
-   - Guangzhou, China, 2023 Autumn
+   - Guangzhou, 2023 Autumn
    - Organized and facilitated a workshop on qualitative research methods, including interview design, data collection, and analysis techniques. Coordinated workshop logistics, guided participants through practical exercises, and promoted discussion on methodological applications in media, gender, and digital culture research.
 ### Educational Outreach Volunteer, Sex Education for Rural Children
    - Jinxi, Jiangxi, China, 2019 Summer
@@ -103,16 +104,16 @@ This paper employs *textual analysis* as the primary research method, examining 
 - <a href='https://www.tencentcloud.com/act/pro/2024gdes' target="_blank">Tencent Global Digital Ecosystem Summit</a >, September, 2024
 
 ## Awards and Fellowships
-- National Scholarship (Top 0.2% ), <a href='https://hudong.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_yjs/201508/t20150810_199224.html' target="_blank">Ministry of Education of the People’ s Republic of China</a >
-- Top-level Academic Scholarship 
-- Outstanding Students Scholarship (Top 1%, fourth)
-- Honours Degree & Outstanding Graduates
-- Honorable Mention of Art Design, <a href='https://dasai.lanqiao.cn/notices/1596/' target="_blank">Ministry of Industry and Information Technology of Chinathe People’ s Republic of China</a >
-- Outstanding Volunteer(Top 0.7%), Jiangxi Normal University
-- National Second Prize for Videography, Academy Award of Advertising Arts Festival
-- National Second Prize for Visualization Design, <a href='https://jsjds.blcu.edu.cn/' target="_blank">Chinese Collegiate Computing Competition
-- Best in Arts and Culture News Reporting, <a href='https://campus.chinadailyasia.com/en/home/13' target="_blank">Campus Newspaper Award, China Daily Asia</a >
-- National Second Prize, National English Competition for College Students 
+- Honours Degree & Outstanding Graduates, Shenzhen University (2025)
+- National Scholarship (Top 0.2% ), <a href='https://hudong.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_yjs/201508/t20150810_199224.html' target="_blank">Ministry of Education of the People’ s Republic of China</a > (2025)
+- Top-level Academic Scholarship, Shenzhen University(2024)
+- Outstanding Students Scholarship (Top 1%, fourth), Shenzhen University (2022)
+- Honorable Mention of Art Design, <a href='https://dasai.lanqiao.cn/notices/1596/' target="_blank">Ministry of Industry and Information Technology of Chinathe People’ s Republic of China</a >(2021)
+- National Second Prize for Videography, Academy Award of Advertising Arts Festival(2021)
+- National Second Prize for Visualization Design, <a href='https://jsjds.blcu.edu.cn/' target="_blank">Chinese Collegiate Computing Competition(2020)
+- Best in Arts and Culture News Reporting, <a href='https://campus.chinadailyasia.com/en/home/13' target="_blank">Campus Newspaper Award, China Daily Asia</a >(2020)
+- Outstanding Volunteer(Top 0.7%), Jiangxi Normal University(2019)
+- National Second Prize, National English Competition for College Students(2019)
 
 ## Interships 
 ### Intern Financial Journalist & Producer,Southern Finance Omnimedia Corp
