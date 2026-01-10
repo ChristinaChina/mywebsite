@@ -152,7 +152,7 @@ posts = "/posts/:year/:month/:day/:slug/"
 
   [markup.tableOfContents]
   startLevel = 2
-  endLevel = 3
+  endLevel = 4
   ordered = false
 
 [imaging]

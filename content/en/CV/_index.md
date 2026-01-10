@@ -3,10 +3,8 @@ title: "Zhenting(Maggie) HE's Curriculum Vitae"
 author: Zhenting HE
 type : list-single
 date: 2025-11-18
-type: post
 layout: single
 slug: second-post
-draft: false
 toc: true
 categories:
   - test
@@ -20,17 +18,21 @@ Ongoing ongoing interests include the construction of technology, sociocultural 
 ## Personal Information
 ### Educational Background
    - M.A. in Sociocultural Anthropology(Sub-specialisation: Media Anthropology and linguistic Anthropology )
+      - University of Heidelberg, Germany
    - Visiting Student in Cultural and Social Anthropology and Political Science
-    - M.A. in Journalism and Communication 
-   (Sub-specialisation: Visual Communication and Creative Industries)Graduated with honours
-   - B.A. in Journalism and Communication (Sub-specialisation: Radio and Television)(Graduated with honours)
-  
+      - University of Marburg, Germany
+   - M.A. in Journalism and Communication 
+   (Sub-specialisation: Visual Communication and Creative Industries)
+      - Shenzhen University, China
+      - Graduated with honours
+   - B.A. in Journalism and Communication (Sub-specialisation: Radio and Television)
+      - Jiangxi Normal University, China
+      - Graduated with honours
    *I have received interdisciplinary training across journalism, communication studies, and cultural anthropology during my undergraduate and master’s studies. My academic education spans both China and Germany, combining a strong foundation in news production, media theory, and communication research with anthropological perspectives on culture, society, and everyday practices. This cross-disciplinary and cross-regional educational background has enabled me to approach media and cultural phenomena with both empirical sensitivity and critical, comparative insight.*
 
 ### Contact Details
    - Website: www.zhentinghe.com
    - Email: heyzhenting@gmail.com
-
 
 ## Research Experiences
 ### Relevant research assistant work
@@ -48,6 +50,13 @@ Ongoing ongoing interests include the construction of technology, sociocultural 
 - National Survey Reseach Center, Renmin University of China, April - September, 2021
    - Participated in interviews for five of China’s larger research projects, including topics such as the Winter Olympics, carbon neutrality, and student employment.Through these projects, I learned the importance of scheduling interviews and being sincere, polite, and confident. This experience helped me build a strong foundation for conducting interviews in my qualitative research.
    - Learned and mastered STATA and SPSS data analysis software to analyze the results of the projects' questionnaires, enriching my better knowledge of statistics and data analysis ability, so that I can be more smooth when reading academic articles on related methods.
+### Publication
+#### Digital Journalism
+- Huang, W., He, Z., Zhao, Q., & Chang, J., Public Trust and Community Develpment: A Review of Communication Research in 2023, Press, 2024, (01), 32-48. (Chinese Social Sciences Citation Index)
+   *Produced as part of the National Social Science Fund Major Project “Digital Journalism: Theory, Methods, and Practice”*
+#### Film and Television Cultural Communication
+- He, Z., Street Dance of China: The Development Strategy of Niche Vertical Online Variety Show, Satellite TV & IP Multimedia, 2021(16), 142-144. (Chinese Provincial Publication)
+
 
 ### Peer-reviewed Conference Presentations
 #### Critical Media Culture
@@ -106,15 +115,15 @@ This paper employs *textual analysis* as the primary research method, examining 
 - National Second Prize, National English Competition for College Students 
 
 ## Interships 
-### Intern Financial Journalist & Producer,Southern Finance Omnimedia Corp (SFC)
+### Intern Financial Journalist & Producer,Southern Finance Omnimedia Corp
    - July, 2025 - November, 2025 
       - Planned investigative angles and identified underreported story leads, consistently pitching original ideas with strong public-interest value.\
        - Produced daily news stories, field reports, and in-depth investigative pieces with tightly structured logic and precise, compelling language.\
        - Conducted on-camera interviews and field investigations with a calm, natural presence and clear, authoritative delivery.\
       - Skillfully used video-editing tools to structure evidence, add subtitles, and craft coherent post-production narratives.\
       - Reported across financial, social, and public-accountability topics, demonstrating the ability to adjust investigative approaches and narrative styles to different subject matters.
-### Executive Producer, Shenzhen Global Investment Promotion Conference Promotional Video
-  - June, 2025 - present     
+### Executive Producer, Global Investment Promotion Conference 
+  - June, 2025 - December, 2025     
       - Led the end-to-end production process, coordinating script development, visual planning, on-site filming, and post-production.\
       - Managed cross-functional collaboration between creative teams, technical staff, and external partners to ensure timely and high-quality delivery.\
       - Oversaw budgeting, scheduling, and resource allocation within a fast-paced production timeline.\
