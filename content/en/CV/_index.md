@@ -21,13 +21,10 @@ Ongoing ongoing interests include the construction of technology, sociocultural 
       - University of Heidelberg, Germany
    - Visiting Student in Cultural and Social Anthropology and Political Science
       - University of Marburg, Germany
-   - M.A. in Journalism and Communication 
+   - B.A. in Journalism and Communication 
    (Sub-specialisation: Visual Communication and Creative Industries)
-      - Shenzhen University, China
-      - Graduated with honours
-   - B.A. in Journalism and Communication (Sub-specialisation: Radio and Television)
-      - Jiangxi Normal University, China
-      - Graduated with honours
+      - Graduated with honours, 3.81/4.00, RANK 1/40
+
    *I have received interdisciplinary training across journalism, communication studies, and cultural anthropology during my undergraduate and master’s studies. My academic education spans both China and Germany, combining a strong foundation in news production, media theory, and communication research with anthropological perspectives on culture, society, and everyday practices. This cross-disciplinary and cross-regional educational background has enabled me to approach media and cultural phenomena with both empirical sensitivity and critical, comparative insight.*
 
 ### Contact Details
@@ -106,7 +103,7 @@ This paper employs *textual analysis* as the primary research method, examining 
 - Honours Degree & Outstanding Graduates, Shenzhen University (2025)
 - National Scholarship (Top 0.2% ), <a href='https://hudong.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_yjs/201508/t20150810_199224.html' target="_blank">Ministry of Education of the People’ s Republic of China</a > (2025)
 - Top-level Academic Scholarship, Shenzhen University(2024)
-- Outstanding Students Scholarship (Top 1%, fourth), Shenzhen University (2022)
+- Outstanding Students Scholarship (Top 1%, fourth)
 - Honorable Mention of Art Design, <a href='https://dasai.lanqiao.cn/notices/1596/' target="_blank">Ministry of Industry and Information Technology of Chinathe People’ s Republic of China</a >(2021)
 - National Second Prize for Videography, Academy Award of Advertising Arts Festival(2021)
 - National Second Prize for Visualization Design, <a href='https://jsjds.blcu.edu.cn/' target="_blank">Chinese Collegiate Computing Competition(2020)
