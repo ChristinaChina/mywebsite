@@ -1,6 +1,6 @@
 ---
 title: "Writing Issues|The Influence of Global Fashion on People’s Lives "
-date: 2023-02-07
+date: 2025-04-07
 author: Zhenting HE
 slug: second-post
 draft: false

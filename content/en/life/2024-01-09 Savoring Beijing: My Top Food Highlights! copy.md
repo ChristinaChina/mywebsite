@@ -1,6 +1,6 @@
 ---
 title: "Savoring Beijing: My Top Food Highlights!"
-date: 2022-01-09
+date: 2024-01-09
 author: Zhenting HE
 slug: second-post
 draft: false

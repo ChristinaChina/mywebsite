@@ -1,6 +1,6 @@
 ---
 title: "Humanization, Objectivity, and Platform Dynamics in News Production: Insights from Television and Short-Form Journalism"
-date: 2026-01-14
+date: 2025-10-31
 author: Zhenting HE
 slug: second-post
 draft: false

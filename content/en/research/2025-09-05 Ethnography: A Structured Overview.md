@@ -1,6 +1,6 @@
 ---
 title: "Research Methods|Fieldwork / Ethnography: A Structured Overview"
-date: 2025-10-13
+date: 2025-09-05
 author: Zhenting HE
 slug: second-post
 draft: false
