@@ -2,11 +2,8 @@
 title: "Predatory Wealth: Choke Points, Infrastructural Violence, and Systemic Mafia Dynamics in Indonesia’s Oil Palm Expansion"
 date: 2026-01-26
 author: Zhenting HE
-type: post
-layout: single
 slug: second-post
 draft: false
-toc: true
 categories:
   - test
 tags:

@@ -1,12 +1,11 @@
 ---
 title: "Digital Journalism|Reading Reflections: From “Information” to “Story” — An Epistemological Turn in Digital Journalism"
-date: 2023-02-18
+date: 2023-05-31
 author: Zhenting HE
-type: post
-layout: single
 slug: second-post
 draft: false
-toc: true
+categories:
+  - test
 categories:
   - test
 tags:

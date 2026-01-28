@@ -2,11 +2,8 @@
 title: "Digital Journalism|Adopting a ‘Material Sensibility’ in Journalism Studies: A Reflective Extension"
 date: 2024-09-22
 author: Zhenting HE
-type: post
-layout: single
 slug: second-post
 draft: false
-toc: true
 categories:
   - test
 tags:

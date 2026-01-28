@@ -2,11 +2,8 @@
 title: "Digital Journalism|Reading Reflection:“Ethnography of Digital News Production” from The SAGE Handbook of Digital Journalism"
 date: 2024-03-02
 author: Zhenting HE
-type: post
-layout: single
 slug: second-post
 draft: false
-toc: true
 categories:
   - test
 tags:

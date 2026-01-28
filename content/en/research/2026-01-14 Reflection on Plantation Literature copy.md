@@ -2,11 +2,8 @@
 title: "Three Rejections, Another Year in the ICA Submission Cycle"
 date: 2026-01-14
 author: Zhenting HE
-type: post
-layout: single
 slug: second-post
 draft: false
-toc: true
 categories:
   - test
 tags:

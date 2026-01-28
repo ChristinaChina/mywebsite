@@ -2,11 +2,8 @@
 title: "Re-Affecting Science: Affective Atmospheres, Field Knowledge, and Inequality in Global Biotechnology"
 date: 2026-01-20
 author: Zhenting HE
-type: post
-layout: single
 slug: second-post
 draft: false
-toc: true
 categories:
   - test
 tags:

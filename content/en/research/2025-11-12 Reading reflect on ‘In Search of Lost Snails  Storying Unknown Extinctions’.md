@@ -2,11 +2,8 @@
 title: "Reading reflect on ‘In Search of Lost Snails  Storying Unknown Extinctions’"
 date: 2025-11-12
 author: Zhenting HE
-type: post
-layout: single
 slug: second-post
 draft: false
-toc: true
 categories:
   - test
 tags:
